@@ -1599,6 +1599,11 @@
     "guid": "bbeaea",
     "name": "Trade Token"
   },
+  "bc6bc1": {
+    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "guid": "844677",
+    "name": "Kumasi"
+  },
   "bc832b": {
     "description": "",
     "guid": "bc832b",
@@ -2020,9 +2025,9 @@
     "name": "Animal Husbandry"
   },
   "f0bee6": {
-    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
     "guid": "f0bee6",
-    "name": "Kumasi"
+    "name": "Geneva"
   },
   "f10778": {
     "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
