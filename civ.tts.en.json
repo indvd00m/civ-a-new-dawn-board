@@ -424,6 +424,11 @@
     "guid": "391f06",
     "name": "City"
   },
+  "39447b": {
+    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "guid": "39447b",
+    "name": "Kumasi"
+  },
   "3a2f94": {
     "description": "[Science]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
     "guid": "3a2f94",
@@ -1598,11 +1603,6 @@
     "description": "",
     "guid": "bbeaea",
     "name": "Trade Token"
-  },
-  "bc6bc1": {
-    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
-    "guid": "844677",
-    "name": "Kumasi"
   },
   "bc832b": {
     "description": "",
