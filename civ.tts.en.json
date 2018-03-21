@@ -85,7 +85,7 @@
     "name": "Brussels / Seoul"
   },
   "0a7aea": {
-    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Massonry.\n4. // TODO",
+    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Massonry.\n4. Astrology.\n5. Early Empire.",
     "guid": "0a7aea",
     "name": "Japan"
   },
@@ -145,7 +145,7 @@
     "name": "Control Token"
   },
   "127708": {
-    "description": "Catherine de Medici\n\n[Grand Tour]\n\nWhen resolving your culture focus card, place additional control tokens based on your latest-era world wonder:\n - Ancient: 1 token\n - Medieval: 2 tokens\n - Modern: 3 tokens\n\nSetup:\n1. Masonry.\n2. Astrology.\n3. Foreign Trade. // TODO",
+    "description": "Catherine de Medici\n\n[Grand Tour]\n\nWhen resolving your culture focus card, place additional control tokens based on your latest-era world wonder:\n - Ancient: 1 token\n - Medieval: 2 tokens\n - Modern: 3 tokens\n\nSetup:\n1. Masonry.\n2. Astrology.\n3. Foreign Trade.\n4. Pottery.\n5. Early Empire.",
     "guid": "127708",
     "name": "France"
   },
@@ -285,7 +285,7 @@
     "name": "Replaceable Parts"
   },
   "258bb7": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan. // TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
     "guid": "258bb7",
     "name": "Animal Husbandry"
   },
@@ -360,7 +360,7 @@
     "name": "World Wonder"
   },
   "2dacf4": {
-    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced // TODO",
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
     "guid": "2dacf4",
     "name": "Mass Media"
   },
@@ -475,12 +475,12 @@
     "name": "Caravan"
   },
   "3d31ce": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed// TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "3d31ce",
     "name": "Urbanization"
   },
   "3ee748": {
-    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced // TODO",
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
     "guid": "3ee748",
     "name": "Mass Media"
   },
@@ -645,7 +645,7 @@
     "name": "Capitalism"
   },
   "5366f8": {
-    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Massonry. // TODO\n",
+    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Massonry.\n2. Astrology.\n3. Pottery.\n4. Early Empire.\n5. Foreign Trade.",
     "guid": "5366f8",
     "name": "America"
   },
@@ -700,7 +700,7 @@
     "name": "Marble"
   },
   "5b838e": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed// TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "5b838e",
     "name": "Urbanization"
   },
@@ -810,7 +810,7 @@
     "name": "Mass Production"
   },
   "693a68": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and in// TODO\n\n\n\n\n\n\n",
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
     "guid": "693a68",
     "name": "Pottery"
   },
@@ -995,7 +995,7 @@
     "name": "Control Token"
   },
   "78af68": {
-    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced // TODO",
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
     "guid": "78af68",
     "name": "Mass Media"
   },
@@ -1145,7 +1145,7 @@
     "name": "Chichen Itza"
   },
   "89d8dd": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed// TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "89d8dd",
     "name": "Urbanization"
   },
@@ -1275,7 +1275,7 @@
     "name": "Trade Token"
   },
   "97c0ef": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and in// TODO\n\n\n\n\n\n\n",
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
     "guid": "97c0ef",
     "name": "Pottery"
   },
@@ -1425,7 +1425,7 @@
     "name": "Diamond"
   },
   "a71ff2": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to def// TODO",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
     "guid": "a71ff2",
     "name": "Masonry"
   },
@@ -1465,7 +1465,7 @@
     "name": "Marble"
   },
   "ae2535": {
-    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced // TODO",
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
     "guid": "ae2535",
     "name": "Mass Media"
   },
@@ -1520,7 +1520,7 @@
     "name": "Trade Token"
   },
   "b3a17e": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan. // TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
     "guid": "b3a17e",
     "name": "Animal Husbandry"
   },
@@ -1760,7 +1760,7 @@
     "name": "Trade Token"
   },
   "d106da": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and in// TODO\n\n\n\n\n\n\n",
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
     "guid": "d106da",
     "name": "Pottery"
   },
@@ -2020,7 +2020,7 @@
     "name": "Pyramids"
   },
   "f07c37": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan. // TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
     "guid": "f07c37",
     "name": "Animal Husbandry"
   },
@@ -2050,7 +2050,7 @@
     "name": "Mercury"
   },
   "f46c2d": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan. // TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
     "guid": "f46c2d",
     "name": "Animal Husbandry"
   },
@@ -2140,7 +2140,7 @@
     "name": "Geneva"
   },
   "fad788": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed// TODO",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "fad788",
     "name": "Urbanization"
   },
