@@ -1,0 +1,2232 @@
+{
+  "004007": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nThen, you may exchange 1 of your resource tokens with another resource token of any type from the supply.\n\n+1 Space of Movement Each",
+    "guid": "004007",
+    "name": "Steam Power"
+  },
+  "0047a4": {
+    "description": "",
+    "guid": "0047a4",
+    "name": "Trade Token"
+  },
+  "01548c": {
+    "description": "",
+    "guid": "01548c",
+    "name": "World Wonder"
+  },
+  "02e6eb": {
+    "description": "[Red]",
+    "guid": "02e6eb",
+    "name": "Control Token"
+  },
+  "02e793": {
+    "description": "Resource",
+    "guid": "02e793",
+    "name": "Diamond"
+  },
+  "02f7a2": {
+    "description": "",
+    "guid": "02f7a2",
+    "name": "Trade Token"
+  },
+  "03ab17": {
+    "description": "[Green]",
+    "guid": "03ab17",
+    "name": "Capital"
+  },
+  "05451c": {
+    "description": "",
+    "guid": "05451c",
+    "name": "CITY STATES"
+  },
+  "057419": {
+    "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "057419",
+    "name": "Mathematics"
+  },
+  "0584ea": {
+    "description": "Resource",
+    "guid": "0584ea",
+    "name": "Oil"
+  },
+  "06cae6": {
+    "description": "[Red]",
+    "guid": "06cae6",
+    "name": "Control Token"
+  },
+  "077f4b": {
+    "description": "",
+    "guid": "077f4b",
+    "name": "Trade Token"
+  },
+  "07a146": {
+    "description": "When defending or when attacking a target other than Carthage, increase your combat value by 1 for each city-state token and friendly city within 2 spaces of the defending space.",
+    "guid": "07a146",
+    "name": "Carthage"
+  },
+  "08991c": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "08991c",
+    "name": "Pottery"
+  },
+  "08ecba": {
+    "description": "Natural Wonder",
+    "guid": "08ecba",
+    "name": "Grand Mesa"
+  },
+  "09140a": {
+    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "guid": "09140a",
+    "name": "Mass Production"
+  },
+  "0971ba": {
+    "description": "City-State\n\n(flip)",
+    "guid": "0971ba",
+    "name": "Brussels / Seoul"
+  },
+  "0a7aea": {
+    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Massonry.\n4. Astrology.\n5. Early Empire.",
+    "guid": "0a7aea",
+    "name": "Japan"
+  },
+  "0a939d": {
+    "description": "When attacking, increase your combat value by 2 unless you are attacking the orange player.",
+    "guid": "0a939d",
+    "name": "Joint War"
+  },
+  "0b5243": {
+    "description": "[Orange]",
+    "guid": "0b5243",
+    "name": "Control Token"
+  },
+  "0cba42": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "guid": "0cba42",
+    "name": "Nationalism"
+  },
+  "0d613c": {
+    "description": "[Blue]",
+    "guid": "0d613c",
+    "name": "Control Token"
+  },
+  "0de202": {
+    "description": "[Blue]",
+    "guid": "0de202",
+    "name": "Control Token"
+  },
+  "0eb074": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nOnce per turn, after you reset this card, choose another card in your focus row. Resolve that card as though it is in the first slot, but do not reset it.\n\n+1 Space of Movement Each",
+    "guid": "0eb074",
+    "name": "Capitalism"
+  },
+  "101ef1": {
+    "description": "Resource",
+    "guid": "101ef1",
+    "name": "Marble"
+  },
+  "10212a": {
+    "description": "[Red]",
+    "guid": "10212a",
+    "name": "Caravan"
+  },
+  "11834e": {
+    "description": "[Blue]",
+    "guid": "11834e",
+    "name": "Control Token"
+  },
+  "121309": {
+    "description": "",
+    "guid": "121309",
+    "name": "World Wonder"
+  },
+  "124ac1": {
+    "description": "[Green]",
+    "guid": "124ac1",
+    "name": "Control Token"
+  },
+  "127708": {
+    "description": "Catherine de Medici\n\n[Grand Tour]\n\nWhen resolving your culture focus card, place additional control tokens based on your latest-era world wonder:\n - Ancient: 1 token\n - Medieval: 2 tokens\n - Modern: 3 tokens\n\nSetup:\n1. Masonry.\n2. Astrology.\n3. Foreign Trade.\n4. Pottery.\n5. Early Empire.",
+    "guid": "127708",
+    "name": "France"
+  },
+  "13573d": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
+    "guid": "13573d",
+    "name": "Civil Service"
+  },
+  "13acc2": {
+    "description": "When defending, increase your combat value by 2 unless the blue player is attacking.",
+    "guid": "13acc2",
+    "name": "Defensive Pact"
+  },
+  "1420f8": {
+    "description": "The blue player's control tokens contribute toward your cities' maturity.",
+    "guid": "1420f8",
+    "name": "Open Borders"
+  },
+  "146136": {
+    "description": "[Red]",
+    "guid": "146136",
+    "name": "Control Token"
+  },
+  "148fc6": {
+    "description": "",
+    "guid": "148fc6",
+    "name": "Water Token"
+  },
+  "14d0d8": {
+    "description": "Resource",
+    "guid": "14d0d8",
+    "name": "Mercury"
+  },
+  "159a91": {
+    "description": "[Blue]",
+    "guid": "159a91",
+    "name": "Control Token"
+  },
+  "16a874": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokesn expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control token",
+    "guid": "16a874",
+    "name": "Early Empire"
+  },
+  "1725c0": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "guid": "1725c0",
+    "name": "Nationalism"
+  },
+  "1838d9": {
+    "description": "[Blue]",
+    "guid": "1838d9",
+    "name": "Control Token"
+  },
+  "1b0990": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokesn expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control token",
+    "guid": "1b0990",
+    "name": "Early Empire"
+  },
+  "1cfd71": {
+    "description": "[Blue]",
+    "guid": "1cfd71",
+    "name": "Control Token"
+  },
+  "1d0bef": {
+    "description": "[Blue]",
+    "guid": "1d0bef",
+    "name": "Capital"
+  },
+  "1d5fe6": {
+    "description": "[Ancient Wonder]\n\nWhen defending, increase your combat value by 2.\n\nBarbarians cannot move into spaces containing your cities or reinforced control tokens.",
+    "guid": "1d5fe6",
+    "name": "Petra"
+  },
+  "1da862": {
+    "description": "",
+    "guid": "1da862",
+    "name": "Water Token"
+  },
+  "1dfb96": {
+    "description": "",
+    "guid": "1dfb96",
+    "name": "World Wonder"
+  },
+  "1e7501": {
+    "description": "[Blue]",
+    "guid": "1e7501",
+    "name": "Control Token"
+  },
+  "1fb6ac": {
+    "description": "[Red]",
+    "guid": "1fb6ac",
+    "name": "Control Token"
+  },
+  "1fc156": {
+    "description": "Barbarian",
+    "guid": "1fc156",
+    "name": "E"
+  },
+  "20212d": {
+    "description": "Resources",
+    "guid": "20212d",
+    "name": "Marbles"
+  },
+  "20b110": {
+    "description": "",
+    "guid": "20b110",
+    "name": "Trade Token"
+  },
+  "2112da": {
+    "description": "[Green]",
+    "guid": "2112da",
+    "name": "Control Token"
+  },
+  "22006c": {
+    "description": "",
+    "guid": "22006c",
+    "name": "Trade Token"
+  },
+  "22f07d": {
+    "description": "[Green]",
+    "guid": "22f07d",
+    "name": "Control Token"
+  },
+  "235785": {
+    "description": "[Orange]",
+    "guid": "235785",
+    "name": "Control Token"
+  },
+  "2387dc": {
+    "description": "[Medieval Wonder]\n\nOnce per turn, after you resolve the card in the fifth slot of your focus row, you may resolve it again, treating it as if it was in the first slot.",
+    "guid": "2387dc",
+    "name": "Venetian Arsenal"
+  },
+  "240622": {
+    "description": "",
+    "guid": "240622",
+    "name": "Trade Token"
+  },
+  "243e9b": {
+    "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
+    "guid": "243e9b",
+    "name": "Seoul"
+  },
+  "252760": {
+    "description": "[Science]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "252760",
+    "name": "Replaceable Parts"
+  },
+  "258bb7": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "guid": "258bb7",
+    "name": "Animal Husbandry"
+  },
+  "25c544": {
+    "description": "",
+    "guid": "25c544",
+    "name": "World Wonder"
+  },
+  "2632fe": {
+    "description": "Barbarian",
+    "guid": "2632fe",
+    "name": "B"
+  },
+  "26c2ac": {
+    "description": "[Green]",
+    "guid": "26c2ac",
+    "name": "Control Token"
+  },
+  "26dc75": {
+    "description": "",
+    "guid": "26dc75",
+    "name": "Trade Token"
+  },
+  "29d2b6": {
+    "description": "Resource",
+    "guid": "29d2b6",
+    "name": "Oil"
+  },
+  "2a825e": {
+    "description": "[Green]",
+    "guid": "2a825e",
+    "name": "City"
+  },
+  "2a9b16": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "guid": "2a9b16",
+    "name": "Iron Working"
+  },
+  "2ab6f8": {
+    "description": "[Orange]",
+    "guid": "2ab6f8",
+    "name": "Caravan"
+  },
+  "2b5891": {
+    "description": "[Blue]",
+    "guid": "2b5891",
+    "name": "Control Token"
+  },
+  "2ba601": {
+    "description": "",
+    "guid": "2ba601",
+    "name": "Trade Token"
+  },
+  "2c5f24": {
+    "description": "Barbarian",
+    "guid": "2c5f24",
+    "name": "H"
+  },
+  "2c9f26": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nOnce per turn, after you reset this card, choose another card in your focus row. Resolve that card as though it is in the first slot, but do not reset it.\n\n+1 Space of Movement Each",
+    "guid": "2c9f26",
+    "name": "Capitalism"
+  },
+  "2ca3f5": {
+    "description": "Resource",
+    "guid": "2ca3f5",
+    "name": "Marble"
+  },
+  "2cbf75": {
+    "description": "",
+    "guid": "2cbf75",
+    "name": "World Wonder"
+  },
+  "2dacf4": {
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
+    "guid": "2dacf4",
+    "name": "Mass Media"
+  },
+  "2db1f7": {
+    "description": "[Blue]",
+    "guid": "2db1f7",
+    "name": "City"
+  },
+  "2fc5c4": {
+    "description": "[Red]",
+    "guid": "2fc5c4",
+    "name": "Control Token"
+  },
+  "2fd15a": {
+    "description": "[Blue]",
+    "guid": "2fd15a",
+    "name": "Control Token"
+  },
+  "306a80": {
+    "description": "",
+    "guid": "306a80",
+    "name": "World Wonder"
+  },
+  "312bba": {
+    "description": "[Blue]",
+    "guid": "312bba",
+    "name": "Caravan"
+  },
+  "315710": {
+    "description": "[Green]",
+    "guid": "315710",
+    "name": "Control Token"
+  },
+  "360e1b": {
+    "description": "",
+    "guid": "360e1b",
+    "name": "World Wonder"
+  },
+  "366db3": {
+    "description": "",
+    "guid": "366db3",
+    "name": "Water Token"
+  },
+  "37360d": {
+    "description": "",
+    "guid": "37360d",
+    "name": "World Wonder"
+  },
+  "3805be": {
+    "description": "When you are placing control tokens, the difficulty of all terrain is reduced by 1.",
+    "guid": "3805be",
+    "name": "Mohenjo Daro"
+  },
+  "3845f6": {
+    "description": "Barbarian",
+    "guid": "3845f6",
+    "name": "D"
+  },
+  "391f06": {
+    "description": "[Red]",
+    "guid": "391f06",
+    "name": "City"
+  },
+  "3a2f94": {
+    "description": "[Science]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "3a2f94",
+    "name": "Nuclear Power"
+  },
+  "3b010a": {
+    "description": "[Green]",
+    "guid": "3b010a",
+    "name": "Control Token"
+  },
+  "3b2931": {
+    "description": "When you move a caravan to the red player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "guid": "3b2931",
+    "name": "Embassy"
+  },
+  "3b4dca": {
+    "description": "",
+    "guid": "3b4dca",
+    "name": "World Wonder"
+  },
+  "3bd667": {
+    "description": "[Blue]",
+    "guid": "3bd667",
+    "name": "Control Token"
+  },
+  "3be6f7": {
+    "description": "Resource",
+    "guid": "3be6f7",
+    "name": "Mercury"
+  },
+  "3bf8ba": {
+    "description": "[Blue]",
+    "guid": "3bf8ba",
+    "name": "Control Token"
+  },
+  "3c08b0": {
+    "description": "[Green]",
+    "guid": "3c08b0",
+    "name": "Control Token"
+  },
+  "3cd1cb": {
+    "description": "[Green]",
+    "guid": "3cd1cb",
+    "name": "Caravan"
+  },
+  "3d31ce": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "guid": "3d31ce",
+    "name": "Urbanization"
+  },
+  "3ee748": {
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
+    "guid": "3ee748",
+    "name": "Mass Media"
+  },
+  "402516": {
+    "description": "[Science]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "402516",
+    "name": "Nuclear Power"
+  },
+  "405413": {
+    "description": "",
+    "guid": "405413",
+    "name": "Water Token"
+  },
+  "4160e6": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "4160e6",
+    "name": "Foreign Trade"
+  },
+  "42a46a": {
+    "description": "The green player's control tokens contribute toward your cities' maturity.",
+    "guid": "42a46a",
+    "name": "Open Borders"
+  },
+  "42f9b4": {
+    "description": "[Red]",
+    "guid": "42f9b4",
+    "name": "Control Token"
+  },
+  "4384ac": {
+    "description": "[Green]",
+    "guid": "4384ac",
+    "name": "City"
+  },
+  "43a046": {
+    "description": "",
+    "guid": "43a046",
+    "name": "Trade Token"
+  },
+  "43f424": {
+    "description": "[Blue]",
+    "guid": "43f424",
+    "name": "Control Token"
+  },
+  "45850e": {
+    "description": "[Orange]",
+    "guid": "45850e",
+    "name": "Control Token"
+  },
+  "462581": {
+    "description": "[Orange]",
+    "guid": "462581",
+    "name": "Capital"
+  },
+  "465f48": {
+    "description": "[Red]",
+    "guid": "465f48",
+    "name": "City"
+  },
+  "46cf14": {
+    "description": "[Green]",
+    "guid": "46cf14",
+    "name": "Control Token"
+  },
+  "470e65": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nThen, you may exchange 1 of your resource tokens with another resource token of any type from the supply.\n\n+1 Space of Movement Each",
+    "guid": "470e65",
+    "name": "Steam Power"
+  },
+  "47c652": {
+    "description": "[Green]",
+    "guid": "47c652",
+    "name": "Caravan"
+  },
+  "484c05": {
+    "description": "There are three bags (each with four tiles) and four tiles in this bag. \n\nRandomly select two City States and two Wonders.  These tiles create the Core.   The rest will be shuffled into bag \"REMAINING\". \n\nRandomly deal one Capital tile and two remaining tiles to each player.",
+    "guid": "484c05",
+    "name": "ADVANCED MAP BUILDING"
+  },
+  "48d8f6": {
+    "description": "When attacking a city or a city-state other than Kabul, increase your combat value by 3.",
+    "guid": "48d8f6",
+    "name": "Kabul"
+  },
+  "491f08": {
+    "description": "",
+    "guid": "491f08",
+    "name": "Trade Token"
+  },
+  "491f45": {
+    "description": "",
+    "guid": "491f45",
+    "name": "Trade Token"
+  },
+  "49640c": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "guid": "49640c",
+    "name": "Drama and Poetry"
+  },
+  "4c0a0e": {
+    "description": "",
+    "guid": "4c0a0e",
+    "name": "REMAINING"
+  },
+  "4c4e1a": {
+    "description": "Resources",
+    "guid": "4c4e1a",
+    "name": "Mercuries"
+  },
+  "4d4ac5": {
+    "description": "[Orange]",
+    "guid": "4d4ac5",
+    "name": "Control Token"
+  },
+  "4d5c57": {
+    "description": "[Red]",
+    "guid": "4d5c57",
+    "name": "Control Token"
+  },
+  "4e62ac": {
+    "description": "[Green]",
+    "guid": "4e62ac",
+    "name": "Control Tokens"
+  },
+  "4ea01b": {
+    "description": "",
+    "guid": "4ea01b",
+    "name": "Water Token"
+  },
+  "4eb5c3": {
+    "description": "[Red]",
+    "guid": "4eb5c3",
+    "name": "Control Token"
+  },
+  "4ebe78": {
+    "description": "[Medieval Wonder]\n\nWhen attacking or defending, increase your combat value by 2.",
+    "guid": "4ebe78",
+    "name": "Alhambra"
+  },
+  "4ef8a1": {
+    "description": "[Orange]",
+    "guid": "4ef8a1",
+    "name": "Control Token"
+  },
+  "4fb35c": {
+    "description": "Resource",
+    "guid": "4fb35c",
+    "name": "Mercury"
+  },
+  "511e6b": {
+    "description": "[Blue]",
+    "guid": "511e6b",
+    "name": "Caravan"
+  },
+  "519cd8": {
+    "description": "[Orange]",
+    "guid": "519cd8",
+    "name": "Control Token"
+  },
+  "522757": {
+    "description": "",
+    "guid": "522757",
+    "name": "Trade Token"
+  },
+  "5237e0": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nOnce per turn, after you reset this card, choose another card in your focus row. Resolve that card as though it is in the first slot, but do not reset it.\n\n+1 Space of Movement Each",
+    "guid": "5237e0",
+    "name": "Capitalism"
+  },
+  "5366f8": {
+    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Massonry.\n2. Astrology.\n3. Pottery.\n4. Early Empire.\n5. Foreign Trade.",
+    "guid": "5366f8",
+    "name": "America"
+  },
+  "53b9c4": {
+    "description": "When attacking, increase your combat value by 2 unless you are attacking the blue player.",
+    "guid": "53b9c4",
+    "name": "Joint War"
+  },
+  "53fa97": {
+    "description": "",
+    "guid": "53fa97",
+    "name": "World Wonder"
+  },
+  "54c099": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "54c099",
+    "name": "Foreign Trade"
+  },
+  "55115e": {
+    "description": "",
+    "guid": "55115e",
+    "name": "Trade Token"
+  },
+  "5552a6": {
+    "description": "[Red]",
+    "guid": "5552a6",
+    "name": "Control Token"
+  },
+  "55a71e": {
+    "description": "Barbarian",
+    "guid": "55a71e",
+    "name": "G"
+  },
+  "55abcd": {
+    "description": "[Red]",
+    "guid": "55abcd",
+    "name": "Capital"
+  },
+  "56e384": {
+    "description": "",
+    "guid": "56e384",
+    "name": "World Wonder"
+  },
+  "584dd9": {
+    "description": "[Green]",
+    "guid": "584dd9",
+    "name": "Control Token"
+  },
+  "591f61": {
+    "description": "Cleopatra\n\n[Moument Builders]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Pottery.\n4. Massonry.\n5. Early Empire.",
+    "guid": "591f61",
+    "name": "Egypt"
+  },
+  "593e60": {
+    "description": "Resource",
+    "guid": "593e60",
+    "name": "Marble"
+  },
+  "5b838e": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "guid": "5b838e",
+    "name": "Urbanization"
+  },
+  "5c4dfa": {
+    "description": "Natural Wonder",
+    "guid": "5c4dfa",
+    "name": "Torres del Paine"
+  },
+  "5c9a38": {
+    "description": "[Blue]",
+    "guid": "5c9a38",
+    "name": "Control Token"
+  },
+  "5d88f9": {
+    "description": "[Red]",
+    "guid": "5d88f9",
+    "name": "Control Token"
+  },
+  "5df0db": {
+    "description": "[Blue]",
+    "guid": "5df0db",
+    "name": "City"
+  },
+  "5ea156": {
+    "description": "[Orange]",
+    "guid": "5ea156",
+    "name": "Control Tokens"
+  },
+  "5ea86d": {
+    "description": "[Orange]",
+    "guid": "5ea86d",
+    "name": "Control Token"
+  },
+  "5efa4f": {
+    "description": "[Green]",
+    "guid": "5efa4f",
+    "name": "Control Token"
+  },
+  "5f2cd6": {
+    "description": "[Blue]",
+    "guid": "5f2cd6",
+    "name": "Control Token"
+  },
+  "5f4489": {
+    "description": "[Modern Wonder]\n\nWhen attacking or defending, increase your combat value by 2 for each of your caravans adjacent to the defending space.",
+    "guid": "5f4489",
+    "name": "Big Ben"
+  },
+  "60604a": {
+    "description": "",
+    "guid": "60604a",
+    "name": "World Wonder"
+  },
+  "61f390": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nThen, you may exchange 1 of your resource tokens with another resource token of any type from the supply.\n\n+1 Space of Movement Each",
+    "guid": "61f390",
+    "name": "Steam Power"
+  },
+  "62054a": {
+    "description": "[Ancient Wonder]\n\nWhen building cities, you can build in empty spaces on the edge of the map is if they were withing 2 spaces of a friendly space.",
+    "guid": "62054a",
+    "name": "Great Lighthouse"
+  },
+  "621f61": {
+    "description": "",
+    "guid": "621f61",
+    "name": "Trade Token"
+  },
+  "633442": {
+    "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
+    "guid": "633442",
+    "name": "Brussels"
+  },
+  "64988a": {
+    "description": "[Red]",
+    "guid": "64988a",
+    "name": "Control Token"
+  },
+  "64d15e": {
+    "description": "The orange player's control tokens contribute toward your cities' maturity.",
+    "guid": "64d15e",
+    "name": "Open Borders"
+  },
+  "6507bf": {
+    "description": "[Green]",
+    "guid": "6507bf",
+    "name": "Control Token"
+  },
+  "6509c2": {
+    "description": "",
+    "guid": "6509c2",
+    "name": "Trade Token"
+  },
+  "66b4f2": {
+    "description": "When you move a caravan to the orange player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "guid": "66b4f2",
+    "name": "Embassy"
+  },
+  "67fd3a": {
+    "description": "[Green]",
+    "guid": "67fd3a",
+    "name": "Control Token"
+  },
+  "68d412": {
+    "description": "[Orange]",
+    "guid": "68d412",
+    "name": "Control Token"
+  },
+  "68fb3b": {
+    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "guid": "68fb3b",
+    "name": "Mass Production"
+  },
+  "693a68": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "693a68",
+    "name": "Pottery"
+  },
+  "699be7": {
+    "description": "[Red]",
+    "guid": "699be7",
+    "name": "Control Token"
+  },
+  "69d35d": {
+    "description": "Resource",
+    "guid": "69d35d",
+    "name": "Oil"
+  },
+  "69f745": {
+    "description": "Victory Card",
+    "guid": "69f745",
+    "name": "Explorer | Aesthetic"
+  },
+  "6a09a1": {
+    "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
+    "guid": "6a09a1",
+    "name": "Brussels"
+  },
+  "6a59b4": {
+    "description": "",
+    "guid": "6a59b4",
+    "name": "World Wonder"
+  },
+  "6ac652": {
+    "description": "",
+    "guid": "6ac652",
+    "name": "World Wonder"
+  },
+  "6aca2f": {
+    "description": "[Science]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "6aca2f",
+    "name": "Nuclear Power"
+  },
+  "6c6efa": {
+    "description": "[Orange]",
+    "guid": "6c6efa",
+    "name": "Control Token"
+  },
+  "6cdd7c": {
+    "description": "[Science]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "6cdd7c",
+    "name": "Replaceable Parts"
+  },
+  "6dd2cc": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "guid": "6dd2cc",
+    "name": "Flight"
+  },
+  "6e1bb1": {
+    "description": "",
+    "guid": "6e1bb1",
+    "name": "Trade Token"
+  },
+  "6e2360": {
+    "description": "[Orange]",
+    "guid": "6e2360",
+    "name": "Control Token"
+  },
+  "6ec893": {
+    "description": "[Blue]",
+    "guid": "6ec893",
+    "name": "Control Token"
+  },
+  "6ed0bb": {
+    "description": "[Blue]",
+    "guid": "6ed0bb",
+    "name": "Control Token"
+  },
+  "6f3131": {
+    "description": "[Green]",
+    "guid": "6f3131",
+    "name": "Control Token"
+  },
+  "7003ca": {
+    "description": "",
+    "guid": "7003ca",
+    "name": "Water Token"
+  },
+  "7010c2": {
+    "description": "[Red]",
+    "guid": "7010c2",
+    "name": "Control Token"
+  },
+  "7039eb": {
+    "description": "[Orange]",
+    "guid": "7039eb",
+    "name": "Control Token"
+  },
+  "717850": {
+    "description": "",
+    "guid": "717850",
+    "name": "Trade Token"
+  },
+  "71ef51": {
+    "description": "[Red]",
+    "guid": "71ef51",
+    "name": "Control Token"
+  },
+  "722cd7": {
+    "description": "[Green]",
+    "guid": "722cd7",
+    "name": "Control Token"
+  },
+  "72bb22": {
+    "description": "[Green]",
+    "guid": "72bb22",
+    "name": "Control Token"
+  },
+  "740193": {
+    "description": "Barbarian",
+    "guid": "740193",
+    "name": "I"
+  },
+  "741693": {
+    "description": "[Blue]",
+    "guid": "741693",
+    "name": "Control Token"
+  },
+  "749629": {
+    "description": "[Blue]",
+    "guid": "749629",
+    "name": "Control Token"
+  },
+  "74ca64": {
+    "description": "When you are building a wonder, reduce its cost by 2 if you do not already have a wonder of its type.",
+    "guid": "74ca64",
+    "name": "Buenos Aires"
+  },
+  "75525f": {
+    "description": "[Medieval Wonder]\n\nWhen you build this wonder, replace up to 2 cards in your focus row with cards of the next highest tech level of the same type.",
+    "guid": "75525f",
+    "name": "Porcelain Tower"
+  },
+  "7599a9": {
+    "description": "",
+    "guid": "7599a9",
+    "name": "Trade Token"
+  },
+  "760947": {
+    "description": "[Red]",
+    "guid": "760947",
+    "name": "Control Token"
+  },
+  "766833": {
+    "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "766833",
+    "name": "Mathematics"
+  },
+  "767a1f": {
+    "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "767a1f",
+    "name": "Mathematics"
+  },
+  "76c97a": {
+    "description": "[Green]",
+    "guid": "76c97a",
+    "name": "City"
+  },
+  "776681": {
+    "description": "When attacking, increase your combat value by 2 unless you are attacking the red player.",
+    "guid": "776681",
+    "name": "Joint War"
+  },
+  "77775d": {
+    "description": "[Green]",
+    "guid": "77775d",
+    "name": "Control Token"
+  },
+  "785641": {
+    "description": "[Red]",
+    "guid": "785641",
+    "name": "Control Token"
+  },
+  "787685": {
+    "description": "[Green]",
+    "guid": "787685",
+    "name": "Control Token"
+  },
+  "78af68": {
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
+    "guid": "78af68",
+    "name": "Mass Media"
+  },
+  "78d1b7": {
+    "description": "",
+    "guid": "78d1b7",
+    "name": "Trade Token"
+  },
+  "79115b": {
+    "description": "[Green]",
+    "guid": "79115b",
+    "name": "Control Token"
+  },
+  "796147": {
+    "description": "[Blue]",
+    "guid": "796147",
+    "name": "Control Token"
+  },
+  "79653b": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "79653b",
+    "name": "Foreign Trade"
+  },
+  "7a0c3a": {
+    "description": "",
+    "guid": "7a0c3a",
+    "name": "CAPITALS"
+  },
+  "7b0cfe": {
+    "description": "Resource",
+    "guid": "7b0cfe",
+    "name": "Marble"
+  },
+  "7bc21e": {
+    "description": "City-State\n\n(flip)",
+    "guid": "7bc21e",
+    "name": "Kumasi / Carthage"
+  },
+  "7c4fcc": {
+    "description": "[Green]",
+    "guid": "7c4fcc",
+    "name": "Control Token"
+  },
+  "7d0ca4": {
+    "description": "When you are placing control tokens, the difficulty of all terrain is reduced by 1.",
+    "guid": "7d0ca4",
+    "name": "Mohenjo Daro"
+  },
+  "7d121c": {
+    "description": "[Orange]",
+    "guid": "7d121c",
+    "name": "Control Token"
+  },
+  "7d750c": {
+    "description": "",
+    "guid": "7d750c",
+    "name": "MAP TILES"
+  },
+  "7e369c": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "guid": "7e369c",
+    "name": "Drama and Poetry"
+  },
+  "7e8f9b": {
+    "description": "Resource",
+    "guid": "7e8f9b",
+    "name": "Diamond"
+  },
+  "7ea35a": {
+    "description": "[Green]",
+    "guid": "7ea35a",
+    "name": "Control Token"
+  },
+  "7ea72a": {
+    "description": "Barbarian",
+    "guid": "7ea72a",
+    "name": "F"
+  },
+  "7ee5d1": {
+    "description": "[Orange]",
+    "guid": "7ee5d1",
+    "name": "Control Token"
+  },
+  "7f7e80": {
+    "description": "[Red]",
+    "guid": "7f7e80",
+    "name": "Control Token"
+  },
+  "8004aa": {
+    "description": "Resource",
+    "guid": "8004aa",
+    "name": "Marble"
+  },
+  "81f6b5": {
+    "description": "Victory Card",
+    "guid": "81f6b5",
+    "name": "Warmonger | Paranoid"
+  },
+  "826f77": {
+    "description": "Montezuma\n\n[Legend of the Five Suns]\n\nAfter you reset your military focus card, if you won at least 1 attack this turn, you may swap any 2 cards in your focus row.\n\nSetup:\n1. Astrology.\n2. Early Empire.\n3. Foreign Trade.\n4. Masonry.\n5. Pottery.",
+    "guid": "826f77",
+    "name": "Aztec"
+  },
+  "82d8fa": {
+    "description": "[Orange]",
+    "guid": "82d8fa",
+    "name": "City"
+  },
+  "844677": {
+    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "guid": "844677",
+    "name": "Kumasi"
+  },
+  "84540a": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "84540a",
+    "name": "Foreign Trade"
+  },
+  "84da0b": {
+    "description": "Resource",
+    "guid": "84da0b",
+    "name": "Diamond"
+  },
+  "84de08": {
+    "description": "[Orange]",
+    "guid": "84de08",
+    "name": "Control Token"
+  },
+  "85ae7d": {
+    "description": "[Green]",
+    "guid": "85ae7d",
+    "name": "Control Token"
+  },
+  "878be1": {
+    "description": "[Blue]",
+    "guid": "878be1",
+    "name": "Control Token"
+  },
+  "879256": {
+    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "guid": "879256",
+    "name": "Mass Production"
+  },
+  "881063": {
+    "description": "Resources",
+    "guid": "881063",
+    "name": "Diamonds"
+  },
+  "88c998": {
+    "description": "[Medieval Wonder]\n\nWhen placing control tokens, you can place them on empty forst spaces that are not adjacent to a friendly city.",
+    "guid": "88c998",
+    "name": "Chichen Itza"
+  },
+  "89d8dd": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "guid": "89d8dd",
+    "name": "Urbanization"
+  },
+  "8aea50": {
+    "description": "[Green]",
+    "guid": "8aea50",
+    "name": "City"
+  },
+  "8b01b8": {
+    "description": "[Blue]",
+    "guid": "8b01b8",
+    "name": "Control Token"
+  },
+  "8b451a": {
+    "description": "",
+    "guid": "8b451a",
+    "name": "World Wonder"
+  },
+  "8c219d": {
+    "description": "[Orange]",
+    "guid": "8c219d",
+    "name": "Control Token"
+  },
+  "8cf317": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "guid": "8cf317",
+    "name": "Flight"
+  },
+  "8d1055": {
+    "description": "[Orange]",
+    "guid": "8d1055",
+    "name": "Control Token"
+  },
+  "8dd461": {
+    "description": "[Science]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "8dd461",
+    "name": "Replaceable Parts"
+  },
+  "8ddb3e": {
+    "description": "",
+    "guid": "8ddb3e",
+    "name": "World Wonder"
+  },
+  "8dedeb": {
+    "description": "[Blue]",
+    "guid": "8dedeb",
+    "name": "Control Token"
+  },
+  "8e440e": {
+    "description": "",
+    "guid": "8e440e",
+    "name": "Trade Token"
+  },
+  "8f9fd8": {
+    "description": "Resource",
+    "guid": "8f9fd8",
+    "name": "Diamond"
+  },
+  "90fb77": {
+    "description": "[Orange]",
+    "guid": "90fb77",
+    "name": "Control Token"
+  },
+  "9185e2": {
+    "description": "Resource",
+    "guid": "9185e2",
+    "name": "Mercury"
+  },
+  "92bf9a": {
+    "description": "[Green]",
+    "guid": "92bf9a",
+    "name": "Control Token"
+  },
+  "92dbe3": {
+    "description": "[Red]",
+    "guid": "92dbe3",
+    "name": "Control Token"
+  },
+  "9469a5": {
+    "description": "[Orange]",
+    "guid": "9469a5",
+    "name": "Caravan"
+  },
+  "95dafe": {
+    "description": "",
+    "guid": "95dafe",
+    "name": "Trade Token"
+  },
+  "95fa9e": {
+    "description": "[Orange]",
+    "guid": "95fa9e",
+    "name": "City"
+  },
+  "963aab": {
+    "description": "[Red]",
+    "guid": "963aab",
+    "name": "Control Token"
+  },
+  "96d06c": {
+    "description": "",
+    "guid": "96d06c",
+    "name": "Water Token"
+  },
+  "972239": {
+    "description": "[Red]",
+    "guid": "972239",
+    "name": "City"
+  },
+  "973b30": {
+    "description": "[Modern Wonder]\n\nWhen attacking, increase your combat value by 2.\n\nThe target of your attack can be within any number of spaces. (You must still count to the target space normally.)",
+    "guid": "973b30",
+    "name": "Pentagon"
+  },
+  "974f68": {
+    "description": "[Green]",
+    "guid": "974f68",
+    "name": "Control Token"
+  },
+  "97818d": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "guid": "97818d",
+    "name": "Iron Working"
+  },
+  "9781e2": {
+    "description": "",
+    "guid": "9781e2",
+    "name": "Trade Token"
+  },
+  "97c0ef": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "97c0ef",
+    "name": "Pottery"
+  },
+  "97c589": {
+    "description": "[Orange]",
+    "guid": "97c589",
+    "name": "Control Token"
+  },
+  "97f508": {
+    "description": "When you move a caravan to the green player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "guid": "97f508",
+    "name": "Embassy"
+  },
+  "980646": {
+    "description": "[Red]",
+    "guid": "980646",
+    "name": "Control Token"
+  },
+  "981b65": {
+    "description": "",
+    "guid": "981b65",
+    "name": "World Wonder"
+  },
+  "98c9d4": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nThen, you may exchange 1 of your resource tokens with another resource token of any type from the supply.\n\n+1 Space of Movement Each",
+    "guid": "98c9d4",
+    "name": "Steam Power"
+  },
+  "99ca05": {
+    "description": "[Orange]",
+    "guid": "99ca05",
+    "name": "Control Token"
+  },
+  "9b162a": {
+    "description": "[Green]",
+    "guid": "9b162a",
+    "name": "Control Token"
+  },
+  "9b7fa3": {
+    "description": "[Orange]",
+    "guid": "9b7fa3",
+    "name": "Control Token"
+  },
+  "9c37e2": {
+    "description": "Resource",
+    "guid": "9c37e2",
+    "name": "Marble"
+  },
+  "9c5005": {
+    "description": "",
+    "guid": "9c5005",
+    "name": "Trade Token"
+  },
+  "9c59d8": {
+    "description": "Trajan\n\n[All Roads Lead to Rome]\n\nWhen you move a caravan from your economy card, it can move from any of your cities (even a city that is not mature).\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Masonry.\n4. Early Empire.\n5. Pottery.",
+    "guid": "9c59d8",
+    "name": "Rome"
+  },
+  "9c9b3d": {
+    "description": "",
+    "guid": "9c9b3d",
+    "name": "Trade Token"
+  },
+  "9d4b41": {
+    "description": "[Ancient Wonder]\n\nAfter you place a control token on a hill space, you may place a control token on 1 or more hill spaces adjacent to that space (which can trigger this effect again).",
+    "guid": "9d4b41",
+    "name": "Stonehenge"
+  },
+  "9dcf02": {
+    "description": "[Orange]",
+    "guid": "9dcf02",
+    "name": "City"
+  },
+  "9fff95": {
+    "description": "When you move a caravan to the blue player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "guid": "9fff95",
+    "name": "Embassy"
+  },
+  "a0307f": {
+    "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "guid": "a0307f",
+    "name": "Astrology"
+  },
+  "a16307": {
+    "description": "",
+    "guid": "a16307",
+    "name": "Trade Token"
+  },
+  "a18613": {
+    "description": "[Orange]",
+    "guid": "a18613",
+    "name": "Control Token"
+  },
+  "a2796d": {
+    "description": "",
+    "guid": "a2796d",
+    "name": "Trade Tokens"
+  },
+  "a2b5db": {
+    "description": "[Orange]",
+    "guid": "a2b5db",
+    "name": "City"
+  },
+  "a2eec3": {
+    "description": "",
+    "guid": "a2eec3",
+    "name": "Trade Token"
+  },
+  "a32c01": {
+    "description": "",
+    "guid": "a32c01",
+    "name": "Trade Token"
+  },
+  "a39d2c": {
+    "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
+    "guid": "a39d2c",
+    "name": "Currency"
+  },
+  "a4117f": {
+    "description": "",
+    "guid": "a4117f",
+    "name": "World Wonder"
+  },
+  "a43e0f": {
+    "description": "[Blue]",
+    "guid": "a43e0f",
+    "name": "Control Token"
+  },
+  "a47b5e": {
+    "description": "[Orange]",
+    "guid": "a47b5e",
+    "name": "Control Token"
+  },
+  "a4f3fd": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "guid": "a4f3fd",
+    "name": "Nationalism"
+  },
+  "a56f24": {
+    "description": "[Red]",
+    "guid": "a56f24",
+    "name": "Control Token"
+  },
+  "a5cf15": {
+    "description": "Resource",
+    "guid": "a5cf15",
+    "name": "Diamond"
+  },
+  "a71ff2": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
+    "guid": "a71ff2",
+    "name": "Masonry"
+  },
+  "a93dc1": {
+    "description": "[Blue]",
+    "guid": "a93dc1",
+    "name": "Control Token"
+  },
+  "a9f49b": {
+    "description": "[Blue]",
+    "guid": "a9f49b",
+    "name": "Control Token"
+  },
+  "aa2145": {
+    "description": "[Red]",
+    "guid": "aa2145",
+    "name": "Control Token"
+  },
+  "aa2e86": {
+    "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
+    "guid": "aa2e86",
+    "name": "Currency"
+  },
+  "aa3bcc": {
+    "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
+    "guid": "aa3bcc",
+    "name": "Geneva"
+  },
+  "ac2889": {
+    "description": "[Red]",
+    "guid": "ac2889",
+    "name": "City"
+  },
+  "ac3d08": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokesn expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control token",
+    "guid": "ac3d08",
+    "name": "Early Empire"
+  },
+  "ae0df9": {
+    "description": "Resource",
+    "guid": "ae0df9",
+    "name": "Marble"
+  },
+  "ae2535": {
+    "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
+    "guid": "ae2535",
+    "name": "Mass Media"
+  },
+  "aed144": {
+    "description": "",
+    "guid": "aed144",
+    "name": "World Wonder"
+  },
+  "af9149": {
+    "description": "Victory Card",
+    "guid": "af9149",
+    "name": "Populous | Preservationist"
+  },
+  "afb25a": {
+    "description": "[Red]",
+    "guid": "afb25a",
+    "name": "Control Token"
+  },
+  "afd885": {
+    "description": "[Orange]",
+    "guid": "afd885",
+    "name": "City"
+  },
+  "affb83": {
+    "description": "",
+    "guid": "affb83",
+    "name": "Water Token"
+  },
+  "b0d8ef": {
+    "description": "[Economy]\n\nMove each of your caravans up to 6 spaces. They can move into spaces matching this slot's terrain or lower, as well as water.\n\nOnce per turn, after you reset this card, choose another card in your focus row. Resolve that card as though it is in the first slot, but do not reset it.\n\n+1 Space of Movement Each",
+    "guid": "b0d8ef",
+    "name": "Capitalism"
+  },
+  "b2af84": {
+    "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "guid": "b2af84",
+    "name": "Astrology"
+  },
+  "b327cb": {
+    "description": "[Green]",
+    "guid": "b327cb",
+    "name": "Control Token"
+  },
+  "b35780": {
+    "description": "[Blue]",
+    "guid": "b35780",
+    "name": "City"
+  },
+  "b36d70": {
+    "description": "",
+    "guid": "b36d70",
+    "name": "Trade Token"
+  },
+  "b3a17e": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "guid": "b3a17e",
+    "name": "Animal Husbandry"
+  },
+  "b3f6da": {
+    "description": "",
+    "guid": "b3f6da",
+    "name": "Trade Token"
+  },
+  "b53489": {
+    "description": "[Blue]",
+    "guid": "b53489",
+    "name": "City"
+  },
+  "b5995a": {
+    "description": "[Modern Wonder]\n\nAfter you resolve a focus card other than your economy card, you may resolve and reset your economy card.",
+    "guid": "b5995a",
+    "name": "Estadio do Maracana"
+  },
+  "b5c3a5": {
+    "description": "[Orange]",
+    "guid": "b5c3a5",
+    "name": "Control Token"
+  },
+  "b6a219": {
+    "description": "[Ancient Wonder]\n\nWhen attacking, increase your combat value by 2.",
+    "guid": "b6a219",
+    "name": "Terracotta Army"
+  },
+  "b784dc": {
+    "description": "[Blue]",
+    "guid": "b784dc",
+    "name": "Caravan"
+  },
+  "b7bcb5": {
+    "description": "[Ancient Wonder]\n\nAt the start of your turn, you may swap 2 adjacent cards in your focus row.",
+    "guid": "b7bcb5",
+    "name": "Oracle"
+  },
+  "b852d7": {
+    "description": "[Red]",
+    "guid": "b852d7",
+    "name": "Control Token"
+  },
+  "b8c825": {
+    "description": "[Green]",
+    "guid": "b8c825",
+    "name": "Control Token"
+  },
+  "b8ce4c": {
+    "description": "",
+    "guid": "b8ce4c",
+    "name": "GRAB A RANDOM CHARACTER"
+  },
+  "b8eda9": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "guid": "b8eda9",
+    "name": "Iron Working"
+  },
+  "b9cb76": {
+    "description": "[Red]",
+    "guid": "b9cb76",
+    "name": "Control Token"
+  },
+  "b9d79f": {
+    "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "b9d79f",
+    "name": "Mathematics"
+  },
+  "ba1b96": {
+    "description": "[Green]",
+    "guid": "ba1b96",
+    "name": "City"
+  },
+  "bbc9ed": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "guid": "bbc9ed",
+    "name": "Flight"
+  },
+  "bbeaea": {
+    "description": "",
+    "guid": "bbeaea",
+    "name": "Trade Token"
+  },
+  "bc832b": {
+    "description": "",
+    "guid": "bc832b",
+    "name": "WONDERS"
+  },
+  "be3410": {
+    "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "guid": "be3410",
+    "name": "Astrology"
+  },
+  "bf3a09": {
+    "description": "[Red]",
+    "guid": "bf3a09",
+    "name": "Caravan"
+  },
+  "bfd0a4": {
+    "description": "City-State\n\n(flip)",
+    "guid": "bfd0a4",
+    "name": "Kabul / Buenos Aires"
+  },
+  "c1da07": {
+    "description": "",
+    "guid": "c1da07",
+    "name": "Trade Token"
+  },
+  "c21aea": {
+    "description": "",
+    "guid": "c21aea",
+    "name": "Trade Token"
+  },
+  "c29d0b": {
+    "description": "Resource",
+    "guid": "c29d0b",
+    "name": "Oil"
+  },
+  "c310a7": {
+    "description": "[Red]",
+    "guid": "c310a7",
+    "name": "Control Token"
+  },
+  "c39e80": {
+    "description": "Gilgamesh\n\n[Epic Quest]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nSetup:\n1. Foreign Trade.\n2. Early Empire.\n3. Astrology.\n4. Massonry.\n5. Pottery.",
+    "guid": "c39e80",
+    "name": "Sumeria"
+  },
+  "c457f7": {
+    "description": "[Red]",
+    "guid": "c457f7",
+    "name": "Control Token"
+  },
+  "c4698d": {
+    "description": "[Green]",
+    "guid": "c4698d",
+    "name": "Control Token"
+  },
+  "c8234c": {
+    "description": "[Orange]",
+    "guid": "c8234c",
+    "name": "City"
+  },
+  "c875c4": {
+    "description": "[Red]",
+    "guid": "c875c4",
+    "name": "Control Token"
+  },
+  "c89543": {
+    "description": "When defending, increase your combat value by 2 unless the red player is attacking.",
+    "guid": "c89543",
+    "name": "Defensive Pact"
+  },
+  "c8eb29": {
+    "description": "Resource",
+    "guid": "c8eb29",
+    "name": "Diamond"
+  },
+  "c8f1d1": {
+    "description": "Resource",
+    "guid": "c8f1d1",
+    "name": "Marble"
+  },
+  "c9b6f6": {
+    "description": "When defending, increase your combat value by 2 unless the green player is attacking.",
+    "guid": "c9b6f6",
+    "name": "Defensive Pact"
+  },
+  "ca589a": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
+    "guid": "ca589a",
+    "name": "Civil Service"
+  },
+  "ca9d7a": {
+    "description": "[Green]",
+    "guid": "ca9d7a",
+    "name": "Caravan"
+  },
+  "cafa67": {
+    "description": "",
+    "guid": "cafa67",
+    "name": "World Wonder"
+  },
+  "cb85b9": {
+    "description": "The red player's control tokens contribute toward your cities' maturity.",
+    "guid": "cb85b9",
+    "name": "Open Borders"
+  },
+  "cc31b9": {
+    "description": "Resource",
+    "guid": "cc31b9",
+    "name": "Diamond"
+  },
+  "cc3f9c": {
+    "description": "[Ancient Wonder]\n\nWhen resolving your economy focus card, your caravans can move a total of 6 additional spaces, divided as you choose.",
+    "guid": "cc3f9c",
+    "name": "Colossus"
+  },
+  "cc71ec": {
+    "description": "[Green]",
+    "guid": "cc71ec",
+    "name": "Control Token"
+  },
+  "ccd811": {
+    "description": "Barbarian",
+    "guid": "ccd811",
+    "name": "A"
+  },
+  "cd558f": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "guid": "cd558f",
+    "name": "Drama and Poetry"
+  },
+  "cd5ca8": {
+    "description": "[Orange]",
+    "guid": "cd5ca8",
+    "name": "Control Token"
+  },
+  "cd994c": {
+    "description": "[Red]",
+    "guid": "cd994c",
+    "name": "City"
+  },
+  "ce2434": {
+    "description": "[Modern Wonder]\n\nAt the start of your turn, you may choose 2 rival control tokens on the map belonging to the same player. That player replaces 1 of those tokens with 1 of your unused, unreinforced control tokens.",
+    "guid": "ce2434",
+    "name": "Eiffel Tower"
+  },
+  "ceb250": {
+    "description": "[Blue]",
+    "guid": "ceb250",
+    "name": "Control Token"
+  },
+  "d0038b": {
+    "description": "",
+    "guid": "d0038b",
+    "name": "Trade Token"
+  },
+  "d106da": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "d106da",
+    "name": "Pottery"
+  },
+  "d294c9": {
+    "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
+    "guid": "d294c9",
+    "name": "Currency"
+  },
+  "d32b57": {
+    "description": "",
+    "guid": "d32b57",
+    "name": "Trade Token"
+  },
+  "d34454": {
+    "description": "",
+    "guid": "d34454",
+    "name": "First Player"
+  },
+  "d38d60": {
+    "description": "[Green]",
+    "guid": "d38d60",
+    "name": "City"
+  },
+  "d3b823": {
+    "description": "[Red]",
+    "guid": "d3b823",
+    "name": "Control Tokens"
+  },
+  "d4ce75": {
+    "description": "[Blue]",
+    "guid": "d4ce75",
+    "name": "Control Tokens"
+  },
+  "d584b3": {
+    "description": "",
+    "guid": "d584b3",
+    "name": "World Wonder"
+  },
+  "d5d056": {
+    "description": "[Blue]",
+    "guid": "d5d056",
+    "name": "Control Token"
+  },
+  "d648fb": {
+    "description": "City-State\n\n(flip)",
+    "guid": "d648fb",
+    "name": "Mohenjo Daro / Geneva"
+  },
+  "d6938b": {
+    "description": "[Orange]",
+    "guid": "d6938b",
+    "name": "Control Token"
+  },
+  "d6bc38": {
+    "description": "[Modern Wonder]\n\nWhen attacking a rival space, increase your combat value by 4 if you have more reinforced control tokens on the map than the defending player.",
+    "guid": "d6bc38",
+    "name": "Kremlin"
+  },
+  "d6c289": {
+    "description": "[Orange]",
+    "guid": "d6c289",
+    "name": "Caravan"
+  },
+  "d74103": {
+    "description": "[Medieval Wonder]\n\nYou can place trade tokens on this card instead of on your focus cards, up to a limit of 4.\n\nAt the start of your turn, you may move trade tokens from this card to cards in your focus row.",
+    "guid": "d74103",
+    "name": "Great Zimbabwe"
+  },
+  "d85cc8": {
+    "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
+    "guid": "d85cc8",
+    "name": "ADVANCED MAP BUILDING"
+  },
+  "d8e1a4": {
+    "description": "[Orange]",
+    "guid": "d8e1a4",
+    "name": "Control Token"
+  },
+  "d9204d": {
+    "description": "[Green]",
+    "guid": "d9204d",
+    "name": "City"
+  },
+  "d995d0": {
+    "description": "[Blue]",
+    "guid": "d995d0",
+    "name": "City"
+  },
+  "dab6c2": {
+    "description": "Natural Wonder",
+    "guid": "dab6c2",
+    "name": "Mt. Kilimanjaro"
+  },
+  "de6630": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "guid": "de6630",
+    "name": "Iron Working"
+  },
+  "deb335": {
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "guid": "deb335",
+    "name": "Flight"
+  },
+  "e07ab9": {
+    "description": "Victory Card",
+    "guid": "e07ab9",
+    "name": "Civilized | Money Grubber"
+  },
+  "e1607d": {
+    "description": "[Modern Wonder]\n\nWhen defending, increase you combat value by 5.",
+    "guid": "e1607d",
+    "name": "Ruhr Valley"
+  },
+  "e1b3a1": {
+    "description": "Resource",
+    "guid": "e1b3a1",
+    "name": "Mercury"
+  },
+  "e1e1e1": {
+    "description": "[Blue]",
+    "guid": "e1e1e1",
+    "name": "City"
+  },
+  "e25aa2": {
+    "description": "When attacking a city or a city-state other than Kabul, increase your combat value by 3.",
+    "guid": "e25aa2",
+    "name": "Kabul"
+  },
+  "e2e073": {
+    "description": "When defending, increase your combat value by 2 unless the orange player is attacking.",
+    "guid": "e2e073",
+    "name": "Defensive Pact"
+  },
+  "e2f921": {
+    "description": "[Orange]",
+    "guid": "e2f921",
+    "name": "Control Token"
+  },
+  "e35488": {
+    "description": "[Blue]",
+    "guid": "e35488",
+    "name": "Control Token"
+  },
+  "e373f4": {
+    "description": "Resource",
+    "guid": "e373f4",
+    "name": "Oil"
+  },
+  "e396a0": {
+    "description": "When defending or when attacking a target other than Carthage, increase your combat value by 1 for each city-state token and friendly city within 2 spaces of the defending space.",
+    "guid": "e396a0",
+    "name": "Carthage"
+  },
+  "e52523": {
+    "description": "",
+    "guid": "e52523",
+    "name": "World Wonder"
+  },
+  "e58dac": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokesn expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control token",
+    "guid": "e58dac",
+    "name": "Early Empire"
+  },
+  "e5acb0": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
+    "guid": "e5acb0",
+    "name": "Civil Service"
+  },
+  "e66fcd": {
+    "description": "Resources",
+    "guid": "e66fcd",
+    "name": "Oils"
+  },
+  "e6bce9": {
+    "description": "[Orange]",
+    "guid": "e6bce9",
+    "name": "Control Token"
+  },
+  "e73a63": {
+    "description": "Victory Card",
+    "guid": "e73a63",
+    "name": "Technophile | Scholarly"
+  },
+  "e8ad30": {
+    "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "guid": "e8ad30",
+    "name": "Astrology"
+  },
+  "ea86e6": {
+    "description": "[Green]",
+    "guid": "ea86e6",
+    "name": "Control Token"
+  },
+  "eafdc2": {
+    "description": "[Orange]",
+    "guid": "eafdc2",
+    "name": "Control Token"
+  },
+  "eb4369": {
+    "description": "[Modern Wonder]\n\nRival control tokens contribute toward your cities' maturity.",
+    "guid": "eb4369",
+    "name": "Sydney Opera House"
+  },
+  "eb4872": {
+    "description": "Resource",
+    "guid": "eb4872",
+    "name": "Mercury"
+  },
+  "ebfba6": {
+    "description": "[Science]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "ebfba6",
+    "name": "Replaceable Parts"
+  },
+  "ec9343": {
+    "description": "[Medieval Wonder]\n\nAt the start of your turn, you may destroy 1 rival control token that is adjacent to a friendly space.",
+    "guid": "ec9343",
+    "name": "Forbidden City"
+  },
+  "ed9840": {
+    "description": "[Red]",
+    "guid": "ed9840",
+    "name": "City"
+  },
+  "edeb68": {
+    "description": "Resource",
+    "guid": "edeb68",
+    "name": "Oil"
+  },
+  "ee4205": {
+    "description": "[Red]",
+    "guid": "ee4205",
+    "name": "Control Token"
+  },
+  "ee9f5e": {
+    "description": "[Orange]",
+    "guid": "ee9f5e",
+    "name": "City"
+  },
+  "eeaf8f": {
+    "description": "Tomyris\n\n[People of the Steppe]\n\nWhen attacking or defending grassland or hill space, increase your combat value by 3.\n\nSetup:\n1. Early Empire.\n2. Masonry.\n3. Astrology.\n4. Foreign Trade.\n5. Pottery.",
+    "guid": "eeaf8f",
+    "name": "Scythia"
+  },
+  "efedde": {
+    "description": "[Red]",
+    "guid": "efedde",
+    "name": "City"
+  },
+  "f05221": {
+    "description": "Resource",
+    "guid": "f05221",
+    "name": "Oil"
+  },
+  "f05892": {
+    "description": "[Ancient Wonder]\n\nWhen you build this wonder, choose up to 3 level-I cards in your focus row. Replace each with a level-II card of the same type.",
+    "guid": "f05892",
+    "name": "Pyramids"
+  },
+  "f07c37": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "guid": "f07c37",
+    "name": "Animal Husbandry"
+  },
+  "f0bee6": {
+    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "guid": "5e5d82",
+    "name": "Kumasi"
+  },
+  "f10778": {
+    "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
+    "guid": "f10778",
+    "name": "Currency"
+  },
+  "f10c10": {
+    "description": "[Blue]",
+    "guid": "f10c10",
+    "name": "Control Token"
+  },
+  "f13281": {
+    "description": "[Blue]",
+    "guid": "f13281",
+    "name": "City"
+  },
+  "f19f71": {
+    "description": "Resource",
+    "guid": "f19f71",
+    "name": "Mercury"
+  },
+  "f46c2d": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "guid": "f46c2d",
+    "name": "Animal Husbandry"
+  },
+  "f484a0": {
+    "description": "Barbarian",
+    "guid": "f484a0",
+    "name": "C"
+  },
+  "f4e3f8": {
+    "description": "Resource",
+    "guid": "f4e3f8",
+    "name": "Oil"
+  },
+  "f5542a": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "guid": "f5542a",
+    "name": "Drama and Poetry"
+  },
+  "f68f4c": {
+    "description": "[Ancient Wonder]\n\nAt the start of your turn, you may place 1 control token on a space of terrain difficulty 4 or less that is adjacent to a friendly city.",
+    "guid": "f68f4c",
+    "name": "Hanging Gardens"
+  },
+  "f72d1c": {
+    "description": "[Orange]",
+    "guid": "f72d1c",
+    "name": "Control Token"
+  },
+  "f79f62": {
+    "description": "[Red]",
+    "guid": "f79f62",
+    "name": "Caravan"
+  },
+  "f7c1fb": {
+    "description": "[Green]",
+    "guid": "f7c1fb",
+    "name": "Control Token"
+  },
+  "f8291f": {
+    "description": "[Medieval Wonder]\n\nWhen you resolve the card in the first or second slot of your focus row, you may treat it as being in the third slot of your row.",
+    "guid": "f8291f",
+    "name": "Machu Picchu"
+  },
+  "f87a57": {
+    "description": "[Orange]",
+    "guid": "f87a57",
+    "name": "Control Token"
+  },
+  "f94e69": {
+    "description": "[Red]",
+    "guid": "f94e69",
+    "name": "Control Token"
+  },
+  "f98449": {
+    "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
+    "guid": "f98449",
+    "name": "Seoul"
+  },
+  "f9d6a1": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "guid": "f9d6a1",
+    "name": "Nationalism"
+  },
+  "fa91da": {
+    "description": "[Green]",
+    "guid": "fa91da",
+    "name": "Control Token"
+  },
+  "fa92a8": {
+    "description": "Natural Wonder",
+    "guid": "fa92a8",
+    "name": "Mt. Everest"
+  },
+  "faa7d3": {
+    "description": "[Blue]",
+    "guid": "faa7d3",
+    "name": "Control Token"
+  },
+  "fac265": {
+    "description": "",
+    "guid": "fac265",
+    "name": "World Wonder"
+  },
+  "fac552": {
+    "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
+    "guid": "fac552",
+    "name": "Geneva"
+  },
+  "fad788": {
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "guid": "fad788",
+    "name": "Urbanization"
+  },
+  "faf174": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
+    "guid": "faf174",
+    "name": "Civil Service"
+  },
+  "fba65e": {
+    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "guid": "fba65e",
+    "name": "Mass Production"
+  },
+  "fc0025": {
+    "description": "Resource",
+    "guid": "fc0025",
+    "name": "Diamond"
+  },
+  "fcd569": {
+    "description": "",
+    "guid": "fcd569",
+    "name": "World Wonder"
+  },
+  "fcf9c4": {
+    "description": "[Modern Wonder]\n\nWhen you replace a focus card other than a science focus card, you do not have to replace it with a card of the same type.",
+    "guid": "fcf9c4",
+    "name": "Oxford University"
+  },
+  "fdbf4e": {
+    "description": "[Medieval Wonder]\n\nYou can have 4 diplomacy cards from each other player.\n\nWhen you build this wonder, you may take a total of 3 diplomacy cards of your choice from other players.",
+    "guid": "fdbf4e",
+    "name": "Potala Palace"
+  },
+  "fe4fc3": {
+    "description": "[Blue]",
+    "guid": "fe4fc3",
+    "name": "Control Token"
+  },
+  "fe7e11": {
+    "description": "[Red]",
+    "guid": "fe7e11",
+    "name": "Control Token"
+  },
+  "ff27f5": {
+    "description": "[Science]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "guid": "ff27f5",
+    "name": "Nuclear Power"
+  },
+  "ff900d": {
+    "description": "Resource",
+    "guid": "ff900d",
+    "name": "Mercury"
+  },
+  "ffe8ca": {
+    "description": "When attacking, increase your combat value by 2 unless you are attacking the green player.",
+    "guid": "ffe8ca",
+    "name": "Joint War"
+  }
+}
