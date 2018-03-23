@@ -59,39 +59,39 @@
     "guid": "077f4b",
     "name": "Жетон торговли"
   },
+  "07a146": {
+    "description": "Защищая или атакуя цель, отличную от Карфагена, добавьте себе по 1 боевому бонусу за каждые город-государство и дружественный город в пределах 2 ячеек от защищаемой ячейки.",
+    "guid": "07a146",
+    "name": "Карфаген"
+  },
+  "08991c": {
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 2 ячеек от дружественной территории.\n\nЧудеса света дают мощные, уникальные эффекты их владельцам. Города расширяют доступ игроков к новым областям карты и увеличивают количество чудес света, которые игрок может построить.\n\n+1 к производству чудес света",
+    "guid": "08991c",
+    "name": "Гончарное дело"
+  },
+  "08ecba": {
+    "description": "Природное чудо",
+    "guid": "08ecba",
+    "name": "Гранд-Меса"
+  },
+  "09140a": {
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем укрепите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
+    "guid": "09140a",
+    "name": "Массовое производство"
+  },
+  "0971ba": {
+    "description": "Город-государство",
+    "guid": "0971ba",
+    "name": "Брюссель / Сеул"
+  },
+  "0a7aea": {
+    "description": "Ходзё Токимунэ\n\n[Божественный ветер]\n\nВо время вашего хода сложность ячеек Пустыня и Горы, примыкающих к Воде или краю карты, равна 3.\n\nТехнологии:\n1. Гончарное дело.\n2. Международная торговля.\n3. Каменная кладка.\n4. Астрология.\n5. Ранняя империя.",
+    "guid": "0a7aea",
+    "name": "Япония"
+  },
   
   // placeholder
   
-  "07a146": {
-    "description": "When defending or when attacking a target other than Carthage, increase your combat value by 1 for each city-state token and friendly city within 2 spaces of the defending space.",
-    "guid": "07a146",
-    "name": "Carthage"
-  },
-  "08991c": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
-    "guid": "08991c",
-    "name": "Pottery"
-  },
-  "08ecba": {
-    "description": "Natural Wonder",
-    "guid": "08ecba",
-    "name": "Grand Mesa"
-  },
-  "09140a": {
-    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
-    "guid": "09140a",
-    "name": "Mass Production"
-  },
-  "0971ba": {
-    "description": "City-State\n\n(flip)",
-    "guid": "0971ba",
-    "name": "Brussels / Seoul"
-  },
-  "0a7aea": {
-    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Massonry.\n4. Astrology.\n5. Early Empire.",
-    "guid": "0a7aea",
-    "name": "Japan"
-  },
   "0a939d": {
     "description": "When attacking, increase your combat value by 2 unless you are attacking the orange player.",
     "guid": "0a939d",
@@ -103,7 +103,7 @@
     "name": "Жетон контроля"
   },
   "0cba42": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 к производству чудес света",
     "guid": "0cba42",
     "name": "Nationalism"
   },
@@ -148,7 +148,7 @@
     "name": "Жетон контроля"
   },
   "127708": {
-    "description": "Catherine de Medici\n\n[Grand Tour]\n\nWhen resolving your culture focus card, place additional control tokens based on your latest-era world wonder:\n - Ancient: 1 token\n - Medieval: 2 tokens\n - Modern: 3 tokens\n\nSetup:\n1. Masonry.\n2. Astrology.\n3. Foreign Trade.\n4. Pottery.\n5. Early Empire.",
+    "description": "Catherine de Medici\n\n[Grand Tour]\n\nWhen resolving your culture focus card, place additional control tokens based on your latest-era world wonder:\n - Ancient: 1 token\n - Medieval: 2 tokens\n - Modern: 3 tokens\n\nТехнологии:\n1. Каменная кладка.\n2. Астрология.\n3. Международная торговля.\n4. Гончарное дело.\n5. Ранняя империя.",
     "guid": "127708",
     "name": "France"
   },
@@ -193,7 +193,7 @@
     "name": "Early Empire"
   },
   "1725c0": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 к производству чудес света",
     "guid": "1725c0",
     "name": "Nationalism"
   },
@@ -290,7 +290,7 @@
   "243e9b": {
     "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
     "guid": "243e9b",
-    "name": "Seoul"
+    "name": "Сеул"
   },
   "252760": {
     "description": "[Наука]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
@@ -298,7 +298,7 @@
     "name": "Replaceable Parts"
   },
   "258bb7": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
     "guid": "258bb7",
     "name": "Animal Husbandry"
   },
@@ -333,7 +333,7 @@
     "name": "City"
   },
   "2a9b16": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
     "guid": "2a9b16",
     "name": "Iron Working"
   },
@@ -483,7 +483,7 @@
     "name": "Caravan"
   },
   "3d31ce": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
     "guid": "3d31ce",
     "name": "Urbanization"
   },
@@ -658,7 +658,7 @@
     "name": "Capitalism"
   },
   "5366f8": {
-    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Massonry.\n2. Astrology.\n3. Pottery.\n4. Early Empire.\n5. Foreign Trade.",
+    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nТехнологии:\n1. Каменная кладка.\n2. Астрология.\n3. Гончарное дело.\n4. Ранняя империя.\n5. Международная торговля.",
     "guid": "5366f8",
     "name": "America"
   },
@@ -708,7 +708,7 @@
     "name": "Жетон контроля"
   },
   "591f61": {
-    "description": "Cleopatra\n\n[Moument Builders]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Pottery.\n4. Massonry.\n5. Early Empire.",
+    "description": "Cleopatra\n\n[Moument Builders]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Гончарное дело.\n4. Каменная кладка.\n5. Ранняя империя.",
     "guid": "591f61",
     "name": "Egypt"
   },
@@ -718,12 +718,12 @@
     "name": "Marble"
   },
   "5b838e": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
     "guid": "5b838e",
     "name": "Urbanization"
   },
   "5c4dfa": {
-    "description": "Natural Wonder",
+    "description": "Природное чудо",
     "guid": "5c4dfa",
     "name": "Torres del Paine"
   },
@@ -790,7 +790,7 @@
   "633442": {
     "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
     "guid": "633442",
-    "name": "Brussels"
+    "name": "Брюссель"
   },
   "64988a": {
     "description": "[Красный]",
@@ -828,14 +828,14 @@
     "name": "Жетон контроля"
   },
   "68fb3b": {
-    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем укрепите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "68fb3b",
-    "name": "Mass Production"
+    "name": "Массовое производство"
   },
   "693a68": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 2 ячеек от дружественной территории.\n\nЧудеса света дают мощные, уникальные эффекты их владельцам. Города расширяют доступ игроков к новым областям карты и увеличивают количество чудес света, которые игрок может построить.\n\n+1 к производству чудес света",
     "guid": "693a68",
-    "name": "Pottery"
+    "name": "Гончарное дело"
   },
   "699be7": {
     "description": "[Красный]",
@@ -855,7 +855,7 @@
   "6a09a1": {
     "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
     "guid": "6a09a1",
-    "name": "Brussels"
+    "name": "Брюссель"
   },
   "6a59b4": {
     "description": "",
@@ -883,7 +883,7 @@
     "name": "Replaceable Parts"
   },
   "6dd2cc": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
     "guid": "6dd2cc",
     "name": "Flight"
   },
@@ -1053,7 +1053,7 @@
     "name": "Marble"
   },
   "7bc21e": {
-    "description": "City-State\n\n(flip)",
+    "description": "Город-государство",
     "guid": "7bc21e",
     "name": "Kumasi / Carthage"
   },
@@ -1118,7 +1118,7 @@
     "name": "Warmonger | Paranoid"
   },
   "826f77": {
-    "description": "Montezuma\n\n[Legend of the Five Suns]\n\nAfter you reset your military focus card, if you won at least 1 attack this turn, you may swap any 2 cards in your focus row.\n\nSetup:\n1. Astrology.\n2. Early Empire.\n3. Foreign Trade.\n4. Masonry.\n5. Pottery.",
+    "description": "Montezuma\n\n[Legend of the Five Suns]\n\nAfter you reset your military focus card, if you won at least 1 attack this turn, you may swap any 2 cards in your focus row.\n\nТехнологии:\n1. Астрология.\n2. Ранняя империя.\n3. Международная торговля.\n4. Каменная кладка.\n5. Гончарное дело.",
     "guid": "826f77",
     "name": "Aztec"
   },
@@ -1158,9 +1158,9 @@
     "name": "Жетон контроля"
   },
   "879256": {
-    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем укрепите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "879256",
-    "name": "Mass Production"
+    "name": "Массовое производство"
   },
   "881063": {
     "description": "Resources",
@@ -1173,7 +1173,7 @@
     "name": "Chichen Itza"
   },
   "89d8dd": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
     "guid": "89d8dd",
     "name": "Urbanization"
   },
@@ -1198,7 +1198,7 @@
     "name": "Жетон контроля"
   },
   "8cf317": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
     "guid": "8cf317",
     "name": "Flight"
   },
@@ -1293,7 +1293,7 @@
     "name": "Жетон контроля"
   },
   "97818d": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
     "guid": "97818d",
     "name": "Iron Working"
   },
@@ -1303,9 +1303,9 @@
     "name": "Жетон торговли"
   },
   "97c0ef": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 2 ячеек от дружественной территории.\n\nЧудеса света дают мощные, уникальные эффекты их владельцам. Города расширяют доступ игроков к новым областям карты и увеличивают количество чудес света, которые игрок может построить.\n\n+1 к производству чудес света",
     "guid": "97c0ef",
-    "name": "Pottery"
+    "name": "Гончарное дело"
   },
   "97c589": {
     "description": "[Orange]",
@@ -1358,7 +1358,7 @@
     "name": "Жетон торговли"
   },
   "9c59d8": {
-    "description": "Trajan\n\n[All Roads Lead to Rome]\n\nWhen you move a caravan from your economy card, it can move from any of your cities (even a city that is not mature).\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Masonry.\n4. Early Empire.\n5. Pottery.",
+    "description": "Trajan\n\n[All Roads Lead to Rome]\n\nWhen you move a caravan from your economy card, it can move from any of your cities (even a city that is not mature).\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Каменная кладка.\n4. Ранняя империя.\n5. Гончарное дело.",
     "guid": "9c59d8",
     "name": "Rome"
   },
@@ -1438,7 +1438,7 @@
     "name": "Жетон контроля"
   },
   "a4f3fd": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 к производству чудес света",
     "guid": "a4f3fd",
     "name": "Nationalism"
   },
@@ -1453,7 +1453,7 @@
     "name": "Алмаз"
   },
   "a71ff2": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 боевой бонус",
     "guid": "a71ff2",
     "name": "Masonry"
   },
@@ -1553,7 +1553,7 @@
     "name": "Жетон торговли"
   },
   "b3a17e": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
     "guid": "b3a17e",
     "name": "Animal Husbandry"
   },
@@ -1608,7 +1608,7 @@
     "name": "GRAB A RANDOM CHARACTER"
   },
   "b8eda9": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
     "guid": "b8eda9",
     "name": "Iron Working"
   },
@@ -1628,7 +1628,7 @@
     "name": "City"
   },
   "bbc9ed": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
     "guid": "bbc9ed",
     "name": "Flight"
   },
@@ -1653,7 +1653,7 @@
     "name": "Caravan"
   },
   "bfd0a4": {
-    "description": "City-State\n\n(flip)",
+    "description": "Город-государство",
     "guid": "bfd0a4",
     "name": "Kabul / Buenos Aires"
   },
@@ -1678,7 +1678,7 @@
     "name": "Жетон контроля"
   },
   "c39e80": {
-    "description": "Gilgamesh\n\n[Epic Quest]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nSetup:\n1. Foreign Trade.\n2. Early Empire.\n3. Astrology.\n4. Massonry.\n5. Pottery.",
+    "description": "Gilgamesh\n\n[Epic Quest]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nТехнологии:\n1. Международная торговля.\n2. Ранняя империя.\n3. Астрология.\n4. Каменная кладка.\n5. Гончарное дело.",
     "guid": "c39e80",
     "name": "Sumeria"
   },
@@ -1793,9 +1793,9 @@
     "name": "Жетон торговли"
   },
   "d106da": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 2 ячеек от дружественной территории.\n\nЧудеса света дают мощные, уникальные эффекты их владельцам. Города расширяют доступ игроков к новым областям карты и увеличивают количество чудес света, которые игрок может построить.\n\n+1 к производству чудес света",
     "guid": "d106da",
-    "name": "Pottery"
+    "name": "Гончарное дело"
   },
   "d294c9": {
     "description": "[Экономика]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 к расстоянию перемещения всем",
@@ -1838,7 +1838,7 @@
     "name": "Жетон контроля"
   },
   "d648fb": {
-    "description": "City-State\n\n(flip)",
+    "description": "Город-государство",
     "guid": "d648fb",
     "name": "Mohenjo Daro / Geneva"
   },
@@ -1883,17 +1883,17 @@
     "name": "City"
   },
   "dab6c2": {
-    "description": "Natural Wonder",
+    "description": "Природное чудо",
     "guid": "dab6c2",
     "name": "Mt. Kilimanjaro"
   },
   "de6630": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
     "guid": "de6630",
     "name": "Iron Working"
   },
   "deb335": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
     "guid": "deb335",
     "name": "Flight"
   },
@@ -1943,9 +1943,9 @@
     "name": "Нефть"
   },
   "e396a0": {
-    "description": "When defending or when attacking a target other than Carthage, increase your combat value by 1 for each city-state token and friendly city within 2 spaces of the defending space.",
+    "description": "Защищая или атакуя цель, отличную от Карфагена, добавьте себе по 1 боевому бонусу за каждые город-государство и дружественный город в пределах 2 ячеек от защищаемой ячейки.",
     "guid": "e396a0",
-    "name": "Carthage"
+    "name": "Карфаген"
   },
   "e52523": {
     "description": "",
@@ -2033,7 +2033,7 @@
     "name": "City"
   },
   "eeaf8f": {
-    "description": "Tomyris\n\n[People of the Steppe]\n\nWhen attacking or defending grassland or hill space, increase your combat value by 3.\n\nSetup:\n1. Early Empire.\n2. Masonry.\n3. Astrology.\n4. Foreign Trade.\n5. Pottery.",
+    "description": "Tomyris\n\n[People of the Steppe]\n\nWhen attacking or defending grassland or hill space, increase your combat value by 3.\n\nТехнологии:\n1. Ранняя империя.\n2. Каменная кладка.\n3. Астрология.\n4. Международная торговля.\n5. Гончарное дело.",
     "guid": "eeaf8f",
     "name": "Scythia"
   },
@@ -2053,7 +2053,7 @@
     "name": "Pyramids"
   },
   "f07c37": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
     "guid": "f07c37",
     "name": "Animal Husbandry"
   },
@@ -2083,7 +2083,7 @@
     "name": "Mercury"
   },
   "f46c2d": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
     "guid": "f46c2d",
     "name": "Animal Husbandry"
   },
@@ -2140,10 +2140,10 @@
   "f98449": {
     "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
     "guid": "f98449",
-    "name": "Seoul"
+    "name": "Сеул"
   },
   "f9d6a1": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 к производству чудес света",
     "guid": "f9d6a1",
     "name": "Nationalism"
   },
@@ -2153,7 +2153,7 @@
     "name": "Жетон контроля"
   },
   "fa92a8": {
-    "description": "Natural Wonder",
+    "description": "Природное чудо",
     "guid": "fa92a8",
     "name": "Mt. Everest"
   },
@@ -2173,7 +2173,7 @@
     "name": "Geneva"
   },
   "fad788": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
     "guid": "fad788",
     "name": "Urbanization"
   },
@@ -2183,9 +2183,9 @@
     "name": "Civil Service"
   },
   "fba65e": {
-    "description": "[Military]\n\nPerform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 2. You can count through water.\n\nThen, reinforce a number of your control tokens up to this slot's number, minus 1 for each attack you performed.\n\n+1 to Combat Value",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем укрепите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "fba65e",
-    "name": "Mass Production"
+    "name": "Массовое производство"
   },
   "fc0025": {
     "description": "Ресурс",
