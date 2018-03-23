@@ -85,7 +85,7 @@
     "name": "Brussels / Seoul"
   },
   "0a7aea": {
-    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Massonry.\n4. Astrology.\n5. Early Empire.",
+    "description": "Hojo Tokimune\n\n[Divine Wind]\n\nDuring your turn, desert and mountain spaces that are adjacent to water or the edge of the map are treated as having a terrain difficulty of 3.\n\nSetup:\n1. Pottery.\n2. Foreign Trade.\n3. Masonry.\n4. Astrology.\n5. Early Empire.",
     "guid": "0a7aea",
     "name": "Japan"
   },
@@ -655,7 +655,7 @@
     "name": "Capitalism"
   },
   "5366f8": {
-    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Massonry.\n2. Astrology.\n3. Pottery.\n4. Early Empire.\n5. Foreign Trade.",
+    "description": "Teddy Roosevelt\n\n[Roosevelt Corollary]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nSetup:\n1. Masonry.\n2. Astrology.\n3. Pottery.\n4. Early Empire.\n5. Foreign Trade.",
     "guid": "5366f8",
     "name": "America"
   },
@@ -705,7 +705,7 @@
     "name": "Control Token"
   },
   "591f61": {
-    "description": "Cleopatra\n\n[Moument Builders]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Pottery.\n4. Massonry.\n5. Early Empire.",
+    "description": "Cleopatra\n\n[Moument Builders]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nSetup:\n1. Astrology.\n2. Foreign Trade.\n3. Pottery.\n4. Masonry.\n5. Early Empire.",
     "guid": "591f61",
     "name": "Egypt"
   },
@@ -1675,7 +1675,7 @@
     "name": "Control Token"
   },
   "c39e80": {
-    "description": "Gilgamesh\n\n[Epic Quest]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nSetup:\n1. Foreign Trade.\n2. Early Empire.\n3. Astrology.\n4. Massonry.\n5. Pottery.",
+    "description": "Gilgamesh\n\n[Epic Quest]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nSetup:\n1. Foreign Trade.\n2. Early Empire.\n3. Astrology.\n4. Masonry.\n5. Pottery.",
     "guid": "c39e80",
     "name": "Sumeria"
   },
