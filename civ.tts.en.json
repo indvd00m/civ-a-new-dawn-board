@@ -845,7 +845,7 @@
     "name": "Oil"
   },
   "69f745": {
-    "description": "Victory Card",
+    "description": "[Victory Card]\n\nExplorer:\n - Control 15 spaces adjacent to water or the edge of the map.\n\nAesthetic:\n - Control 2 cultural world wonders.",
     "guid": "69f745",
     "name": "Explorer | Aesthetic"
   },
@@ -1110,7 +1110,7 @@
     "name": "Marble"
   },
   "81f6b5": {
-    "description": "Victory Card",
+    "description": "[Victory Card]\n\nWarmonger:\n - Defeat 1 rival capital city or control 2 conquered city-states.\n\nParanoid:\n - Control 2 military world wonders.",
     "guid": "81f6b5",
     "name": "Warmonger | Paranoid"
   },
@@ -1505,7 +1505,7 @@
     "name": "World Wonder"
   },
   "af9149": {
-    "description": "Victory Card",
+    "description": "[Victory Card]\n\nPopulous:\n - Control 5 mature cities.\n\nPreservationist:\n - Control 2 natural wonders.",
     "guid": "af9149",
     "name": "Populous | Preservationist"
   },
@@ -1895,7 +1895,7 @@
     "name": "Flight"
   },
   "e07ab9": {
-    "description": "Victory Card",
+    "description": "[Victory Card]\n\nCivilized:\n - Have 8 of your cities on the map.\n\nMoney Grubber:\n - Control 2 economic world wonders.",
     "guid": "e07ab9",
     "name": "Civilized | Money Grubber"
   },
@@ -1970,7 +1970,7 @@
     "name": "Control Token"
   },
   "e73a63": {
-    "description": "Victory Card",
+    "description": "[Victory Card]\n\nTechnophile:\n - Reach “24” on your tech dial.\n\nScholarly:\n - Control 2 scientific world wonders.",
     "guid": "e73a63",
     "name": "Technophile | Scholarly"
   },
