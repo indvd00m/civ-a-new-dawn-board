@@ -1774,6 +1774,11 @@
     "guid": "cd994c",
     "name": "City"
   },
+  "ce0e0c": {
+    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "guid": "ce0e0c",
+    "name": "Kumasi"
+  },
   "ce2434": {
     "description": "[Modern Wonder]\n\nAt the start of your turn, you may choose 2 rival control tokens on the map belonging to the same player. That player replaces 1 of those tokens with 1 of your unused, unreinforced control tokens.",
     "guid": "ce2434",
@@ -2055,9 +2060,9 @@
     "name": "Animal Husbandry"
   },
   "f0bee6": {
-    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
-    "guid": "5e5d82",
-    "name": "Kumasi"
+    "description": "When you are building a wonder, reduce its cost by 2 if you do not already have a wonder of its type.",
+    "guid": "f0bee6",
+    "name": "Buenos Aires"
   },
   "f10778": {
     "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
