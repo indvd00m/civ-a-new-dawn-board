@@ -880,7 +880,7 @@
     "name": "Replaceable Parts"
   },
   "6dd2cc": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 3 attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
     "guid": "6dd2cc",
     "name": "Flight"
   },
@@ -1195,7 +1195,7 @@
     "name": "Control Token"
   },
   "8cf317": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 3 attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
     "guid": "8cf317",
     "name": "Flight"
   },
@@ -1625,7 +1625,7 @@
     "name": "City"
   },
   "bbc9ed": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 3 attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
     "guid": "bbc9ed",
     "name": "Flight"
   },
@@ -1890,7 +1890,7 @@
     "name": "Iron Working"
   },
   "deb335": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 3 attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 to Combat Value",
     "guid": "deb335",
     "name": "Flight"
   },
