@@ -1597,7 +1597,7 @@
   "b8ce4c": {
     "description": "",
     "guid": "b8ce4c",
-    "name": "GRAB A RANDOM CHARACTER"
+    "name": "[Grab a random character]"
   },
   "b8eda9": {
     "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 to Combat Value",
@@ -1632,7 +1632,7 @@
   "bc832b": {
     "description": "",
     "guid": "bc832b",
-    "name": "WONDERS"
+    "name": "[Wonders]"
   },
   "be3410": {
     "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
@@ -1865,7 +1865,7 @@
     "name": "Early Empire"
   },
   "d85cc8": {
-    "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
+    "description": "Use the board tiles in this bag and the water hexes to create an advanced map.\n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
     "guid": "d85cc8",
     "name": "[Advanced map building]"
   },
