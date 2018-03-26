@@ -1165,7 +1165,7 @@
     "name": "Diamonds"
   },
   "88c998": {
-    "description": "[Medieval Wonder]\n\nWhen placing control tokens, you can place them on empty forst spaces that are not adjacent to a friendly city.",
+    "description": "[Medieval Wonder]\n\nWhen placing control tokens, you can place them on empty forest spaces that are not adjacent to a friendly city.",
     "guid": "88c998",
     "name": "Chichen Itza"
   },
