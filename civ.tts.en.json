@@ -480,7 +480,7 @@
     "name": "Caravan"
   },
   "3d31ce": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "3d31ce",
     "name": "Urbanization"
   },
@@ -580,7 +580,7 @@
     "name": "Trade Token"
   },
   "49640c": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
     "guid": "49640c",
     "name": "Drama and Poetry"
   },
@@ -715,7 +715,7 @@
     "name": "Marble"
   },
   "5b838e": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "5b838e",
     "name": "Urbanization"
   },
@@ -775,7 +775,7 @@
     "name": "Steam Power"
   },
   "62054a": {
-    "description": "[Ancient Wonder]\n\nWhen building cities, you can build in empty spaces on the edge of the map is if they were withing 2 spaces of a friendly space.",
+    "description": "[Ancient Wonder]\n\nWhen building cities, you can build in empty spaces on the edge of the map is if they were within 2 spaces of a friendly space.",
     "guid": "62054a",
     "name": "Great Lighthouse"
   },
@@ -1075,7 +1075,7 @@
     "name": "MAP TILES"
   },
   "7e369c": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
     "guid": "7e369c",
     "name": "Drama and Poetry"
   },
@@ -1170,7 +1170,7 @@
     "name": "Chichen Itza"
   },
   "89d8dd": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "89d8dd",
     "name": "Urbanization"
   },
@@ -1760,7 +1760,7 @@
     "name": "A"
   },
   "cd558f": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
     "guid": "cd558f",
     "name": "Drama and Poetry"
   },
@@ -2095,7 +2095,7 @@
     "name": "Oil"
   },
   "f5542a": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 Control Token",
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
     "guid": "f5542a",
     "name": "Drama and Poetry"
   },
@@ -2170,7 +2170,7 @@
     "name": "Geneva"
   },
   "fad788": {
-    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
+    "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "fad788",
     "name": "Urbanization"
   },
