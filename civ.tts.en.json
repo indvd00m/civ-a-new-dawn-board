@@ -65,9 +65,9 @@
     "name": "Carthage"
   },
   "08991c": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
     "guid": "08991c",
-    "name": "Pottery"
+    "name": "Masonry"
   },
   "08ecba": {
     "description": "Natural Wonder",
@@ -185,9 +185,9 @@
     "name": "Control Token"
   },
   "16a874": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
     "guid": "16a874",
-    "name": "Early Empire"
+    "name": "Masonry"
   },
   "1725c0": {
     "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number, or, if this card is in the fifth slot, your production equals 7.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 4 spaces of a friendly space. You can count through water.\n\n+1 Production for Wonders",
@@ -198,11 +198,6 @@
     "description": "[Blue]",
     "guid": "1838d9",
     "name": "Control Token"
-  },
-  "1b0990": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
-    "guid": "1b0990",
-    "name": "Early Empire"
   },
   "1cfd71": {
     "description": "[Blue]",
@@ -318,6 +313,11 @@
     "description": "",
     "guid": "26dc75",
     "name": "Trade Token"
+  },
+  "2884eb": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "2884eb",
+    "name": "Foreign Trade"
   },
   "29d2b6": {
     "description": "Resource",
@@ -479,6 +479,11 @@
     "guid": "3cd1cb",
     "name": "Caravan"
   },
+  "3d0e9c": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "guid": "3d0e9c",
+    "name": "Early Empire"
+  },
   "3d31ce": {
     "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 Production for Wonders",
     "guid": "3d31ce",
@@ -500,9 +505,9 @@
     "name": "Water Token"
   },
   "4160e6": {
-    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
     "guid": "4160e6",
-    "name": "Foreign Trade"
+    "name": "Masonry"
   },
   "42a46a": {
     "description": "The green player's control tokens contribute toward your cities' maturity.",
@@ -668,11 +673,6 @@
     "description": "",
     "guid": "53fa97",
     "name": "World Wonder"
-  },
-  "54c099": {
-    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
-    "guid": "54c099",
-    "name": "Foreign Trade"
   },
   "55115e": {
     "description": "",
@@ -904,6 +904,11 @@
     "guid": "6ed0bb",
     "name": "Control Token"
   },
+  "6f2c09": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "guid": "6f2c09",
+    "name": "Early Empire"
+  },
   "6f3131": {
     "description": "[Green]",
     "guid": "6f3131",
@@ -994,6 +999,11 @@
     "guid": "76c97a",
     "name": "City"
   },
+  "773f03": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "773f03",
+    "name": "Foreign Trade"
+  },
   "776681": {
     "description": "When attacking, increase your combat value by 2 unless you are attacking the red player.",
     "guid": "776681",
@@ -1034,11 +1044,6 @@
     "guid": "796147",
     "name": "Control Token"
   },
-  "79653b": {
-    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
-    "guid": "79653b",
-    "name": "Foreign Trade"
-  },
   "7a0c3a": {
     "description": "",
     "guid": "7a0c3a",
@@ -1073,6 +1078,11 @@
     "description": "",
     "guid": "7d750c",
     "name": "[Map tiles]"
+  },
+  "7d7b40": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "7d7b40",
+    "name": "Foreign Trade"
   },
   "7e369c": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
@@ -1128,11 +1138,6 @@
     "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
     "guid": "844677",
     "name": "Kumasi"
-  },
-  "84540a": {
-    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
-    "guid": "84540a",
-    "name": "Foreign Trade"
   },
   "84da0b": {
     "description": "Resource",
@@ -1299,11 +1304,6 @@
     "guid": "9781e2",
     "name": "Trade Token"
   },
-  "97c0ef": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
-    "guid": "97c0ef",
-    "name": "Pottery"
-  },
   "97c589": {
     "description": "[Orange]",
     "guid": "97c589",
@@ -1449,15 +1449,15 @@
     "guid": "a5cf15",
     "name": "Diamond"
   },
-  "a71ff2": {
-    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
-    "guid": "a71ff2",
-    "name": "Masonry"
-  },
   "a93dc1": {
     "description": "[Blue]",
     "guid": "a93dc1",
     "name": "Control Token"
+  },
+  "a96d84": {
+    "description": "[Economy]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 Space of Movement Each",
+    "guid": "a96d84",
+    "name": "Foreign Trade"
   },
   "a9f49b": {
     "description": "[Blue]",
@@ -1483,11 +1483,6 @@
     "description": "[Red]",
     "guid": "ac2889",
     "name": "City"
-  },
-  "ac3d08": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
-    "guid": "ac3d08",
-    "name": "Early Empire"
   },
   "ae0df9": {
     "description": "Resource",
@@ -1734,6 +1729,11 @@
     "guid": "cafa67",
     "name": "World Wonder"
   },
+  "cb12db": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "cb12db",
+    "name": "Pottery"
+  },
   "cb85b9": {
     "description": "The red player's control tokens contribute toward your cities' maturity.",
     "guid": "cb85b9",
@@ -1793,11 +1793,6 @@
     "description": "",
     "guid": "d0038b",
     "name": "Trade Token"
-  },
-  "d106da": {
-    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
-    "guid": "d106da",
-    "name": "Pottery"
   },
   "d294c9": {
     "description": "[Economy]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 Space of Movement Each",
@@ -1863,6 +1858,11 @@
     "description": "[Medieval Wonder]\n\nYou can place trade tokens on this card instead of on your focus cards, up to a limit of 4.\n\nAt the start of your turn, you may move trade tokens from this card to cards in your focus row.",
     "guid": "d74103",
     "name": "Great Zimbabwe"
+  },
+  "d7fb5d": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "guid": "d7fb5d",
+    "name": "Early Empire"
   },
   "d85cc8": {
     "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
@@ -1955,9 +1955,9 @@
     "name": "World Wonder"
   },
   "e58dac": {
-    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
     "guid": "e58dac",
-    "name": "Early Empire"
+    "name": "Masonry"
   },
   "e5acb0": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
@@ -1969,6 +1969,11 @@
     "guid": "e66fcd",
     "name": "Oils"
   },
+  "e6ae31": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "e6ae31",
+    "name": "Pottery"
+  },
   "e6bce9": {
     "description": "[Orange]",
     "guid": "e6bce9",
@@ -1978,6 +1983,11 @@
     "description": "[Victory Card]\n\nTechnophile:\n - Reach “24” on your tech dial.\n\nScholarly:\n - Control 2 scientific world wonders.",
     "guid": "e73a63",
     "name": "Technophile | Scholarly"
+  },
+  "e764b5": {
+    "description": "[Industry]\n\nBuild 1 world wonder. You production equals this slot's number.\n\nOr, build 1 city on a legal scpace of this slot's terrain or lower within 2 spaces of a friendly space.\n\nWorld wonders grand powerful, unique effects to their owners. Cities expand a player's reach into new areas of the map and increase the number of world wonders he or she can have.\n\n+1 Production for Wonders",
+    "guid": "e764b5",
+    "name": "Pottery"
   },
   "e8ad30": {
     "description": "[Science]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
@@ -2023,6 +2033,11 @@
     "description": "Resource",
     "guid": "edeb68",
     "name": "Oil"
+  },
+  "ee0a5f": {
+    "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nControl tokens expand your territory, allowing you to acquire resources from the map and to mature your cities.\n\n+1 Control Token",
+    "guid": "ee0a5f",
+    "name": "Early Empire"
   },
   "ee4205": {
     "description": "[Red]",
