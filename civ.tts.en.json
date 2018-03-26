@@ -560,9 +560,9 @@
     "name": "Caravan"
   },
   "484c05": {
-    "description": "There are three bags (each with four tiles) and four tiles in this bag. \n\nRandomly select two City States and two Wonders.  These tiles create the Core.   The rest will be shuffled into bag \"REMAINING\". \n\nRandomly deal one Capital tile and two remaining tiles to each player.",
+    "description": "There are three bags (each with four tiles) and four tiles in this bag.\n\nRandomly select two City States and two Wonders. These tiles create the Core. The rest will be shuffled into bag \"[Remaining]\". \n\nRandomly deal one Capital tile and two remaining tiles to each player.",
     "guid": "484c05",
-    "name": "ADVANCED MAP BUILDING"
+    "name": "[Advanced map building]"
   },
   "48d8f6": {
     "description": "When attacking a city or a city-state other than Kabul, increase your combat value by 3.",
@@ -587,7 +587,7 @@
   "4c0a0e": {
     "description": "",
     "guid": "4c0a0e",
-    "name": "REMAINING"
+    "name": "[Remaining]"
   },
   "4c4e1a": {
     "description": "Resources",
@@ -1072,7 +1072,7 @@
   "7d750c": {
     "description": "",
     "guid": "7d750c",
-    "name": "MAP TILES"
+    "name": "[Map tiles]"
   },
   "7e369c": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (does not contain a token or plasctic figure).\n\n+1 Control Token",
@@ -1867,7 +1867,7 @@
   "d85cc8": {
     "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
     "guid": "d85cc8",
-    "name": "ADVANCED MAP BUILDING"
+    "name": "[Advanced map building]"
   },
   "d8e1a4": {
     "description": "[Orange]",
