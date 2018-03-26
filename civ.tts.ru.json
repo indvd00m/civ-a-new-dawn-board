@@ -75,7 +75,7 @@
     "name": "Гранд-Меса"
   },
   "09140a": {
-    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номера этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "09140a",
     "name": "Массовое производство"
   },
@@ -274,13 +274,10 @@
     "guid": "235785",
     "name": "Жетон контроля"
   },
-  
-  // placeholder
-  
   "2387dc": {
-    "description": "[Medieval Wonder]\n\nOnce per turn, after you resolve the card in the fifth slot of your focus row, you may resolve it again, treating it as if it was in the first slot.",
+    "description": "[Средневековое чудо]\n\nРаз в ход после применения своей карты в пятом ряду вы можете применить её ещё раз, считая что она лежит в первом слоте.",
     "guid": "2387dc",
-    "name": "Venetian Arsenal"
+    "name": "Венецианский Арсенал"
   },
   "240622": {
     "description": "",
@@ -288,19 +285,19 @@
     "name": "Жетон торговли"
   },
   "243e9b": {
-    "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
+    "description": "В начале вашего хода вы можете переместить 1 варвара на примыкающую пустую ячейку.",
     "guid": "243e9b",
     "name": "Сеул"
   },
   "252760": {
-    "description": "[Наука]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПолучите 1 ресурс с рынка по вашему выбору. Вы не можете получить ресурс того же типа, который у вас уже есть.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "252760",
-    "name": "Replaceable Parts"
+    "name": "Стандартизация"
   },
   "258bb7": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 3 ячеек от дружественной территории.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и примыкающей к дружественному каравану.\n\n+1 к производству чудес света",
     "guid": "258bb7",
-    "name": "Animal Husbandry"
+    "name": "Животноводство"
   },
   "25c544": {
     "description": "",
@@ -330,12 +327,12 @@
   "2a825e": {
     "description": "[Зелёный]",
     "guid": "2a825e",
-    "name": "City"
+    "name": "Город"
   },
   "2a9b16": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
     "guid": "2a9b16",
-    "name": "Iron Working"
+    "name": "Обработка железа"
   },
   "2ab6f8": {
     "description": "[Жёлтый]",
@@ -373,14 +370,14 @@
     "name": "Чудо света"
   },
   "2dacf4": {
-    "description": "[Культура]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 3 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем выберите жетон контроля соперника на расстоянии до 2 ячеек от дружественной территории. Если жетон контроля соперника без улучшения, замените его 1 своим неулучшенным жетоном контроля. Если жетон контроля соперника улучшен, переверните его неулучшенной стороной вверх.\n\n+1 жетон контроля",
     "guid": "2dacf4",
-    "name": "Mass Media"
+    "name": "Средства массовой информации"
   },
   "2db1f7": {
     "description": "[Синий]",
     "guid": "2db1f7",
-    "name": "City"
+    "name": "Город"
   },
   "2fc5c4": {
     "description": "[Красный]",
@@ -423,9 +420,9 @@
     "name": "Чудо света"
   },
   "3805be": {
-    "description": "When you are placing control tokens, the difficulty of all terrain is reduced by 1.",
+    "description": "При размещениии ваших жетонов контроля сложность всех ячеек уменьшается на 1.",
     "guid": "3805be",
-    "name": "Mohenjo Daro"
+    "name": "Мохенджо-Даро"
   },
   "3845f6": {
     "description": "Варвар",
@@ -435,12 +432,12 @@
   "391f06": {
     "description": "[Красный]",
     "guid": "391f06",
-    "name": "City"
+    "name": "Город"
   },
   "3a2f94": {
-    "description": "[Наука]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nЕсли вы применяете эту карту в пятом слоте, выберите 1 ячейку. В этой и всех примыкающих к ней ячейках уничтожьте все неулучшенные жетоны контроля и переверните все улучшенные жетоны контроля на их неулучшенную сторону.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "3a2f94",
-    "name": "Nuclear Power"
+    "name": "Атомная энергия"
   },
   "3b010a": {
     "description": "[Зелёный]",
@@ -448,9 +445,9 @@
     "name": "Жетон контроля"
   },
   "3b2931": {
-    "description": "When you move a caravan to the red player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "description": "При входе караваном в столицу красного игрока (включая караван с помощью которого получена эта карта), возьмите 1 жетон торговли с рынка и поместите на карту из ряда действий этого игрока. Затем получите 1 ресурс с рынка по своему выбору.",
     "guid": "3b2931",
-    "name": "Embassy"
+    "name": "Посольство"
   },
   "3b4dca": {
     "description": "",
@@ -483,19 +480,19 @@
     "name": "Караван"
   },
   "3d31ce": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 5 ячеек от дружественной территории. Вы можете пересекать воду.\n\nЗатем, если вы построили город, поместите до 2 жетонов контроля на примыкающие к городу ячейки. Жетоны должны быть помещены на ячейки соответствующие типу местности текущего слота.\n\n+1 к производству чудес света",
     "guid": "3d31ce",
-    "name": "Urbanization"
+    "name": "Урбанизация"
   },
   "3ee748": {
-    "description": "[Культура]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 3 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем выберите жетон контроля соперника на расстоянии до 2 ячеек от дружественной территории. Если жетон контроля соперника без улучшения, замените его 1 своим неулучшенным жетоном контроля. Если жетон контроля соперника улучшен, переверните его неулучшенной стороной вверх.\n\n+1 жетон контроля",
     "guid": "3ee748",
-    "name": "Mass Media"
+    "name": "Средства массовой информации"
   },
   "402516": {
-    "description": "[Наука]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nЕсли вы применяете эту карту в пятом слоте, выберите 1 ячейку. В этой и всех примыкающих к ней ячейках уничтожьте все неулучшенные жетоны контроля и переверните все улучшенные жетоны контроля на их неулучшенную сторону.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "402516",
-    "name": "Nuclear Power"
+    "name": "Атомная энергия"
   },
   "405413": {
     "description": "",
@@ -503,9 +500,9 @@
     "name": "Вода"
   },
   "4160e6": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 3 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nКараваны путешествуют в города-государства и города соперников для получения жетонов торговли и дипломатических карт. Жетоны торговли улучшают свойства карт из ряда действий, как описано, например, в нижней части этой карты.\n\n+1 к расстоянию перемещения всем",
     "guid": "4160e6",
-    "name": "Foreign Trade"
+    "name": "Международная торговля"
   },
   "42a46a": {
     "description": "Жетоны контроля зелёного игрока влияют на развитость ваших городов.",
@@ -520,7 +517,7 @@
   "4384ac": {
     "description": "[Зелёный]",
     "guid": "4384ac",
-    "name": "City"
+    "name": "Город"
   },
   "43a046": {
     "description": "",
@@ -545,7 +542,7 @@
   "465f48": {
     "description": "[Красный]",
     "guid": "465f48",
-    "name": "City"
+    "name": "Город"
   },
   "46cf14": {
     "description": "[Зелёный]",
@@ -563,14 +560,14 @@
     "name": "Караван"
   },
   "484c05": {
-    "description": "There are three bags (each with four tiles) and four tiles in this bag. \n\nRandomly select two City States and two Wonders.  These tiles create the Core.   The rest will be shuffled into bag \"REMAINING\". \n\nRandomly deal one Capital tile and two remaining tiles to each player.",
+    "description": "В этом мешочке находятся 4 участка карт и три других мешочка (каждый с 4 участками карт).\n\nСлучайно выберите 2 города-государства и 2 чуда света. Эти ячейки будут основой. Остальное будет перемешано и помещено в мешочек \"[Оставшееся]\".\n\nСлучайно выберите 1 участок карты для столицы и 2 оставшихся участка для каждого игрока.",
     "guid": "484c05",
-    "name": "ADVANCED MAP BUILDING"
+    "name": "[Формирование карты]"
   },
   "48d8f6": {
-    "description": "When attacking a city or a city-state other than Kabul, increase your combat value by 3.",
+    "description": "Атакуя город или город-государство, отличный от Кабула, добавьте себе 3 боевых бонуса.",
     "guid": "48d8f6",
-    "name": "Kabul"
+    "name": "Кабул"
   },
   "491f08": {
     "description": "",
@@ -583,19 +580,19 @@
     "name": "Жетон торговли"
   },
   "49640c": {
-    "description": "[Культура]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем вы можете переместить один ваш жетон контроля на примыкающую не водную пустую ячейку (не содержащую жетона или пластиковой фигурки).\n\n+1 жетон контроля",
     "guid": "49640c",
-    "name": "Drama and Poetry"
+    "name": "Драма и поэзия"
   },
   "4c0a0e": {
     "description": "",
     "guid": "4c0a0e",
-    "name": "REMAINING"
+    "name": "[Оставшееся]"
   },
   "4c4e1a": {
     "description": "Ресурсы",
     "guid": "4c4e1a",
-    "name": "Mercuries"
+    "name": "Ртуть"
   },
   "4d4ac5": {
     "description": "[Жёлтый]",
@@ -610,7 +607,7 @@
   "4e62ac": {
     "description": "[Зелёный]",
     "guid": "4e62ac",
-    "name": "Control Tokens"
+    "name": "Жетоны контроля"
   },
   "4ea01b": {
     "description": "",
@@ -623,9 +620,9 @@
     "name": "Жетон контроля"
   },
   "4ebe78": {
-    "description": "[Medieval Wonder]\n\nWhen attacking or defending, increase your combat value by 2.",
+    "description": "[Средневековое чудо]\n\nАтакуя или защищаясь, добавьте себе 2 боевых бонуса.",
     "guid": "4ebe78",
-    "name": "Alhambra"
+    "name": "Альгамбра"
   },
   "4ef8a1": {
     "description": "[Жёлтый]",
@@ -658,7 +655,7 @@
     "name": "Капитализм"
   },
   "5366f8": {
-    "description": "Теодор Рузвельт\n\n[Поправка Рузвельта]\n\nWhen you gain or spend a natural wonder token, place it on any card in your focus row.\n\nYou can spend a natural wonder token on a focus card either as a trade token on that card or as a resource.\n\nТехнологии:\n1. Каменная кладка.\n2. Астрология.\n3. Гончарное дело.\n4. Ранняя империя.\n5. Международная торговля.",
+    "description": "Теодор Рузвельт\n\n[Поправка Рузвельта]\n\nПри получении или использовании жетона природного чуда, поместите его на любую карту в вашем ряду дейстий.\n\nВы можете использовать жетон природного чуда либо как жетон торговли на этой карте либо как ресурс.\n\nТехнологии:\n1. Каменная кладка.\n2. Астрология.\n3. Гончарное дело.\n4. Ранняя империя.\n5. Международная торговля.",
     "guid": "5366f8",
     "name": "Америка"
   },
@@ -673,9 +670,9 @@
     "name": "Чудо света"
   },
   "54c099": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 3 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nКараваны путешествуют в города-государства и города соперников для получения жетонов торговли и дипломатических карт. Жетоны торговли улучшают свойства карт из ряда действий, как описано, например, в нижней части этой карты.\n\n+1 к расстоянию перемещения всем",
     "guid": "54c099",
-    "name": "Foreign Trade"
+    "name": "Международная торговля"
   },
   "55115e": {
     "description": "",
@@ -708,7 +705,7 @@
     "name": "Жетон контроля"
   },
   "591f61": {
-    "description": "Клеопатра\n\n[Строители памятников]\n\nThe cost of all world wonders is reduced by 1 for you.\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Гончарное дело.\n4. Каменная кладка.\n5. Ранняя империя.",
+    "description": "Клеопатра\n\n[Строители памятников]\n\nСтоимость всех чудес света для вас снижена на 1.\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Гончарное дело.\n4. Каменная кладка.\n5. Ранняя империя.",
     "guid": "591f61",
     "name": "Египет"
   },
@@ -718,14 +715,14 @@
     "name": "Мрамор"
   },
   "5b838e": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 5 ячеек от дружественной территории. Вы можете пересекать воду.\n\nЗатем, если вы построили город, поместите до 2 жетонов контроля на примыкающие к городу ячейки. Жетоны должны быть помещены на ячейки соответствующие типу местности текущего слота.\n\n+1 к производству чудес света",
     "guid": "5b838e",
-    "name": "Urbanization"
+    "name": "Урбанизация"
   },
   "5c4dfa": {
     "description": "Природное чудо",
     "guid": "5c4dfa",
-    "name": "Torres del Paine"
+    "name": "Торрес-дель-Пайне"
   },
   "5c9a38": {
     "description": "[Синий]",
@@ -740,12 +737,12 @@
   "5df0db": {
     "description": "[Синий]",
     "guid": "5df0db",
-    "name": "City"
+    "name": "Город"
   },
   "5ea156": {
     "description": "[Жёлтый]",
     "guid": "5ea156",
-    "name": "Control Tokens"
+    "name": "Жетоны контроля"
   },
   "5ea86d": {
     "description": "[Жёлтый]",
@@ -763,9 +760,9 @@
     "name": "Жетон контроля"
   },
   "5f4489": {
-    "description": "[Modern Wonder]\n\nWhen attacking or defending, increase your combat value by 2 for each of your caravans adjacent to the defending space.",
+    "description": "[Современное чудо]\n\nАтакуя или защищаясь, добавьте себе по 2 боевых бонуса за каждый ваш караван на примыкающей к защищаемой ячейке.",
     "guid": "5f4489",
-    "name": "Big Ben"
+    "name": "Биг-Бен"
   },
   "60604a": {
     "description": "",
@@ -778,9 +775,9 @@
     "name": "Паровой двигатель"
   },
   "62054a": {
-    "description": "[Древнее чудо]\n\nWhen building cities, you can build in empty spaces on the edge of the map is if they were withing 2 spaces of a friendly space.",
+    "description": "[Древнее чудо]\n\nВы можете строить города на пустой ячейке на краю карты если она находится в пределах 2 ячеек от дружественной территории.",
     "guid": "62054a",
-    "name": "Great Lighthouse"
+    "name": "Фаросский маяк"
   },
   "621f61": {
     "description": "",
@@ -788,7 +785,7 @@
     "name": "Жетон торговли"
   },
   "633442": {
-    "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
+    "description": "При постройке чуда света уменьшите его стоимость на 1 за каждый ваш развитый город.",
     "guid": "633442",
     "name": "Брюссель"
   },
@@ -813,9 +810,9 @@
     "name": "Жетон торговли"
   },
   "66b4f2": {
-    "description": "When you move a caravan to the orange player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "description": "При входе караваном в столицу жёлтого игрока (включая караван с помощью которого получена эта карта), возьмите 1 жетон торговли с рынка и поместите на карту из ряда действий этого игрока. Затем получите 1 ресурс с рынка по своему выбору.",
     "guid": "66b4f2",
-    "name": "Embassy"
+    "name": "Посольство"
   },
   "67fd3a": {
     "description": "[Зелёный]",
@@ -828,7 +825,7 @@
     "name": "Жетон контроля"
   },
   "68fb3b": {
-    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номера этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "68fb3b",
     "name": "Массовое производство"
   },
@@ -848,12 +845,12 @@
     "name": "Нефть"
   },
   "69f745": {
-    "description": "Victory Card",
+    "description": "[Победная карта]\n\nИсследователь:\n - Контролируйте 15 ячеек примыкающих к воде или краю карты.\n\nЭстет:\n - Контролируйте 2 чуда света культурного типа.",
     "guid": "69f745",
-    "name": "Explorer | Aesthetic"
+    "name": "Исследователь | Эстет"
   },
   "6a09a1": {
-    "description": "When you are building a wonder, reduce its cost by 1 for each of your mature cities.",
+    "description": "При постройке чуда света уменьшите его стоимость на 1 за каждый ваш развитый город.",
     "guid": "6a09a1",
     "name": "Брюссель"
   },
@@ -868,9 +865,9 @@
     "name": "Чудо света"
   },
   "6aca2f": {
-    "description": "[Наука]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nЕсли вы применяете эту карту в пятом слоте, выберите 1 ячейку. В этой и всех примыкающих к ней ячейках уничтожьте все неулучшенные жетоны контроля и переверните все улучшенные жетоны контроля на их неулучшенную сторону.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "6aca2f",
-    "name": "Nuclear Power"
+    "name": "Атомная энергия"
   },
   "6c6efa": {
     "description": "[Жёлтый]",
@@ -878,14 +875,14 @@
     "name": "Жетон контроля"
   },
   "6cdd7c": {
-    "description": "[Наука]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПолучите 1 ресурс с рынка по вашему выбору. Вы не можете получить ресурс того же типа, который у вас уже есть.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "6cdd7c",
-    "name": "Replaceable Parts"
+    "name": "Стандартизация"
   },
   "6dd2cc": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 3 атак в пределах 5 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 3. Вы можете пересекать воду, ячейки соперников, варваров и города-государства.\n\n+1 боевой бонус",
     "guid": "6dd2cc",
-    "name": "Flight"
+    "name": "Авиация"
   },
   "6e1bb1": {
     "description": "",
@@ -963,14 +960,14 @@
     "name": "Жетон контроля"
   },
   "74ca64": {
-    "description": "When you are building a wonder, reduce its cost by 2 if you do not already have a wonder of its type.",
+    "description": "При постройке чуда света уменьшите его стоимость на 2 если у вас ещё нет чуда этого типа.",
     "guid": "74ca64",
-    "name": "Buenos Aires"
+    "name": "Буэнос-Айрес"
   },
   "75525f": {
-    "description": "[Medieval Wonder]\n\nWhen you build this wonder, replace up to 2 cards in your focus row with cards of the next highest tech level of the same type.",
+    "description": "[Средневековое чудо]\n\nПри постройке этого чуда замените до 2 карт в вашем ряду действий картами следующего уровня этого же типа.",
     "guid": "75525f",
-    "name": "Porcelain Tower"
+    "name": "Фарфоровая пагода"
   },
   "7599a9": {
     "description": "",
@@ -995,7 +992,7 @@
   "76c97a": {
     "description": "[Зелёный]",
     "guid": "76c97a",
-    "name": "City"
+    "name": "Город"
   },
   "776681": {
     "description": "Во время атаки добавьте себе 2 боевых бонуса, если цель нападения не красный игрок.",
@@ -1018,9 +1015,9 @@
     "name": "Жетон контроля"
   },
   "78af68": {
-    "description": "[Культура]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 3 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем выберите жетон контроля соперника на расстоянии до 2 ячеек от дружественной территории. Если жетон контроля соперника без улучшения, замените его 1 своим неулучшенным жетоном контроля. Если жетон контроля соперника улучшен, переверните его неулучшенной стороной вверх.\n\n+1 жетон контроля",
     "guid": "78af68",
-    "name": "Mass Media"
+    "name": "Средства массовой информации"
   },
   "78d1b7": {
     "description": "",
@@ -1038,14 +1035,14 @@
     "name": "Жетон контроля"
   },
   "79653b": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 3 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nКараваны путешествуют в города-государства и города соперников для получения жетонов торговли и дипломатических карт. Жетоны торговли улучшают свойства карт из ряда действий, как описано, например, в нижней части этой карты.\n\n+1 к расстоянию перемещения всем",
     "guid": "79653b",
-    "name": "Foreign Trade"
+    "name": "Международная торговля"
   },
   "7a0c3a": {
     "description": "",
     "guid": "7a0c3a",
-    "name": "CAPITALS"
+    "name": "Столицы"
   },
   "7b0cfe": {
     "description": "Ресурс",
@@ -1055,7 +1052,7 @@
   "7bc21e": {
     "description": "Город-государство",
     "guid": "7bc21e",
-    "name": "Kumasi / Carthage"
+    "name": "Кумаси / Карфаген"
   },
   "7c4fcc": {
     "description": "[Зелёный]",
@@ -1063,9 +1060,9 @@
     "name": "Жетон контроля"
   },
   "7d0ca4": {
-    "description": "When you are placing control tokens, the difficulty of all terrain is reduced by 1.",
+    "description": "При размещениии ваших жетонов контроля сложность всех ячеек уменьшается на 1.",
     "guid": "7d0ca4",
-    "name": "Mohenjo Daro"
+    "name": "Мохенджо-Даро"
   },
   "7d121c": {
     "description": "[Жёлтый]",
@@ -1075,12 +1072,12 @@
   "7d750c": {
     "description": "",
     "guid": "7d750c",
-    "name": "MAP TILES"
+    "name": "[Участки карт]"
   },
   "7e369c": {
-    "description": "[Культура]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем вы можете переместить один ваш жетон контроля на примыкающую не водную пустую ячейку (не содержащую жетона или пластиковой фигурки).\n\n+1 жетон контроля",
     "guid": "7e369c",
-    "name": "Drama and Poetry"
+    "name": "Драма и поэзия"
   },
   "7e8f9b": {
     "description": "Ресурс",
@@ -1113,29 +1110,29 @@
     "name": "Мрамор"
   },
   "81f6b5": {
-    "description": "Victory Card",
+    "description": "[Победная карта]\n\nПодстрекатель:\n - Захватите 1 столицу соперника или контролируйте 2 завоёванных города-государства.\n\nПараноик:\n - Контролируйте 2 чуда света военного типа.",
     "guid": "81f6b5",
-    "name": "Warmonger | Paranoid"
+    "name": "Подстрекатель | Параноик"
   },
   "826f77": {
-    "description": "Монтесума\n\n[Легенда о пяти солнцах]\n\nAfter you reset your military focus card, if you won at least 1 attack this turn, you may swap any 2 cards in your focus row.\n\nТехнологии:\n1. Астрология.\n2. Ранняя империя.\n3. Международная торговля.\n4. Каменная кладка.\n5. Гончарное дело.",
+    "description": "Монтесума\n\n[Легенда о пяти солнцах]\n\nПосле сброса военной карты в вашем ряду действий, если вы выиграли хотя бы в одной атаке в этом ходу, вы можете поменять местами любые 2 карты в вашем ряду действий.\n\nТехнологии:\n1. Астрология.\n2. Ранняя империя.\n3. Международная торговля.\n4. Каменная кладка.\n5. Гончарное дело.",
     "guid": "826f77",
     "name": "Ацтеки"
   },
   "82d8fa": {
     "description": "[Жёлтый]",
     "guid": "82d8fa",
-    "name": "City"
+    "name": "Город"
   },
   "844677": {
-    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
+    "description": "При использовании промышленной или культурной карты из вашего ряда действий сложность ячеек с лесом равна 1.",
     "guid": "844677",
-    "name": "Kumasi"
+    "name": "Кумаси"
   },
   "84540a": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 3 spaces. They can move into spaces matching this slot's terrain or lower.\n\nCaravans travel to city-states and rival cities to gain trade tokens and diplomacy cards. Trade tokens increase a focus card's effect as descrived at the bottom of that card.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 3 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nКараваны путешествуют в города-государства и города соперников для получения жетонов торговли и дипломатических карт. Жетоны торговли улучшают свойства карт из ряда действий, как описано, например, в нижней части этой карты.\n\n+1 к расстоянию перемещения всем",
     "guid": "84540a",
-    "name": "Foreign Trade"
+    "name": "Международная торговля"
   },
   "84da0b": {
     "description": "Ресурс",
@@ -1158,29 +1155,29 @@
     "name": "Жетон контроля"
   },
   "879256": {
-    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номера этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "879256",
     "name": "Массовое производство"
   },
   "881063": {
     "description": "Ресурсы",
     "guid": "881063",
-    "name": "Diamonds"
+    "name": "Алмазы"
   },
   "88c998": {
-    "description": "[Medieval Wonder]\n\nWhen placing control tokens, you can place them on empty forst spaces that are not adjacent to a friendly city.",
+    "description": "[Средневековое чудо]\n\nВы можете размещать ваши жетоны контроля на пустых лесных ячейках, которые не примыкают к дружественному городу.",
     "guid": "88c998",
-    "name": "Chichen Itza"
+    "name": "Чичен-Ица"
   },
   "89d8dd": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 5 ячеек от дружественной территории. Вы можете пересекать воду.\n\nЗатем, если вы построили город, поместите до 2 жетонов контроля на примыкающие к городу ячейки. Жетоны должны быть помещены на ячейки соответствующие типу местности текущего слота.\n\n+1 к производству чудес света",
     "guid": "89d8dd",
-    "name": "Urbanization"
+    "name": "Урбанизация"
   },
   "8aea50": {
     "description": "[Зелёный]",
     "guid": "8aea50",
-    "name": "City"
+    "name": "Город"
   },
   "8b01b8": {
     "description": "[Синий]",
@@ -1198,9 +1195,9 @@
     "name": "Жетон контроля"
   },
   "8cf317": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 3 атак в пределах 5 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 3. Вы можете пересекать воду, ячейки соперников, варваров и города-государства.\n\n+1 боевой бонус",
     "guid": "8cf317",
-    "name": "Flight"
+    "name": "Авиация"
   },
   "8d1055": {
     "description": "[Жёлтый]",
@@ -1208,9 +1205,9 @@
     "name": "Жетон контроля"
   },
   "8dd461": {
-    "description": "[Наука]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПолучите 1 ресурс с рынка по вашему выбору. Вы не можете получить ресурс того же типа, который у вас уже есть.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "8dd461",
-    "name": "Replaceable Parts"
+    "name": "Стандартизация"
   },
   "8ddb3e": {
     "description": "",
@@ -1265,7 +1262,7 @@
   "95fa9e": {
     "description": "[Жёлтый]",
     "guid": "95fa9e",
-    "name": "City"
+    "name": "Город"
   },
   "963aab": {
     "description": "[Красный]",
@@ -1280,12 +1277,12 @@
   "972239": {
     "description": "[Красный]",
     "guid": "972239",
-    "name": "City"
+    "name": "Город"
   },
   "973b30": {
-    "description": "[Modern Wonder]\n\nWhen attacking, increase your combat value by 2.\n\nThe target of your attack can be within any number of spaces. (You must still count to the target space normally.)",
+    "description": "[Современное чудо]\n\nВо время атаки добавьте себе 2 боевых бонуса.\n\nЦель вашей атаки может находится на любом расстоянии. (Вы должны быть способны пересекать клетки по пути к цели.)",
     "guid": "973b30",
-    "name": "Pentagon"
+    "name": "Пентагон"
   },
   "974f68": {
     "description": "[Зелёный]",
@@ -1293,9 +1290,9 @@
     "name": "Жетон контроля"
   },
   "97818d": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
     "guid": "97818d",
-    "name": "Iron Working"
+    "name": "Обработка железа"
   },
   "9781e2": {
     "description": "",
@@ -1313,9 +1310,9 @@
     "name": "Жетон контроля"
   },
   "97f508": {
-    "description": "When you move a caravan to the green player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "description": "При входе караваном в столицу зелёного игрока (включая караван с помощью которого получена эта карта), возьмите 1 жетон торговли с рынка и поместите на карту из ряда действий этого игрока. Затем получите 1 ресурс с рынка по своему выбору.",
     "guid": "97f508",
-    "name": "Embassy"
+    "name": "Посольство"
   },
   "980646": {
     "description": "[Красный]",
@@ -1358,7 +1355,7 @@
     "name": "Жетон торговли"
   },
   "9c59d8": {
-    "description": "Траян\n\n[Все дороги ведут в Рим]\n\nWhen you move a caravan from your economy card, it can move from any of your cities (even a city that is not mature).\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Каменная кладка.\n4. Ранняя империя.\n5. Гончарное дело.",
+    "description": "Траян\n\n[Все дороги ведут в Рим]\n\nПри размещении каравана с вашей экономической карты вы  можете начать ход из любого вашего города (даже из не развитого).\n\nТехнологии:\n1. Астрология.\n2. Международная торговля.\n3. Каменная кладка.\n4. Ранняя империя.\n5. Гончарное дело.",
     "guid": "9c59d8",
     "name": "Рим"
   },
@@ -1368,24 +1365,24 @@
     "name": "Жетон торговли"
   },
   "9d4b41": {
-    "description": "[Древнее чудо]\n\nAfter you place a control token on a hill space, you may place a control token on 1 or more hill spaces adjacent to that space (which can trigger this effect again).",
+    "description": "[Древнее чудо]\n\nПосле размещения вашего жетона контроля на ячейке с холмами вы можете разместить дополнительные жетоны контроля на 1 или несколько примыкающих к первой ячейках с холмами (что может повторно привести к срабатыванию этого эффекта).",
     "guid": "9d4b41",
-    "name": "Stonehenge"
+    "name": "Стоунхендж"
   },
   "9dcf02": {
     "description": "[Жёлтый]",
     "guid": "9dcf02",
-    "name": "City"
+    "name": "Город"
   },
   "9fff95": {
-    "description": "When you move a caravan to the blue player's capital (including the one used to take this card), place 1 trade token from the supply on a card in that player's focus row. Then, gain 1 resource of your choice from the supply.",
+    "description": "При входе караваном в столицу синего игрока (включая караван с помощью которого получена эта карта), возьмите 1 жетон торговли с рынка и поместите на карту из ряда действий этого игрока. Затем получите 1 ресурс с рынка по своему выбору.",
     "guid": "9fff95",
-    "name": "Embassy"
+    "name": "Посольство"
   },
   "a0307f": {
-    "description": "[Наука]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПоверните ваш диск технологий на число равное номеру этого слота.\n\nПоворачивая ваш диск технологий вы открываете возможность заменять карты из вашего ряда действий их улучшенными версиями с особыми свойствами.\n\n+1 к повороту диска технологий",
     "guid": "a0307f",
-    "name": "Astrology"
+    "name": "Астрология"
   },
   "a16307": {
     "description": "",
@@ -1400,12 +1397,12 @@
   "a2796d": {
     "description": "",
     "guid": "a2796d",
-    "name": "Trade Tokens"
+    "name": "Жетоны торговли"
   },
   "a2b5db": {
     "description": "[Жёлтый]",
     "guid": "a2b5db",
-    "name": "City"
+    "name": "Город"
   },
   "a2eec3": {
     "description": "",
@@ -1418,9 +1415,9 @@
     "name": "Жетон торговли"
   },
   "a39d2c": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 4 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nВаши караваны могут перемещаться на ячейки варваров. При перемещении каравана на ячейку с варварами, уничтожьте этих варваров без получения жетонов торговли.\n\n+1 к расстоянию перемещения всем",
     "guid": "a39d2c",
-    "name": "Currency"
+    "name": "Деньги"
   },
   "a4117f": {
     "description": "",
@@ -1453,10 +1450,13 @@
     "name": "Алмаз"
   },
   "a71ff2": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 2 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота.\n\nУлучшенные жетоны контроля дают защитные бонусы к их собственной и примыкающим к ним ячейкам. Нападение это эффективный способ для уничтожения варваров, захвата городов-государств и получения контроля над чудесами света противника.\n\n+1 боевой бонус",
     "guid": "a71ff2",
-    "name": "Masonry"
+    "name": "Каменная кладка"
   },
+  
+  // placeholder
+  
   "a93dc1": {
     "description": "[Синий]",
     "guid": "a93dc1",
@@ -1473,9 +1473,9 @@
     "name": "Жетон контроля"
   },
   "aa2e86": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 4 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nВаши караваны могут перемещаться на ячейки варваров. При перемещении каравана на ячейку с варварами, уничтожьте этих варваров без получения жетонов торговли.\n\n+1 к расстоянию перемещения всем",
     "guid": "aa2e86",
-    "name": "Currency"
+    "name": "Деньги"
   },
   "aa3bcc": {
     "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
@@ -1485,7 +1485,7 @@
   "ac2889": {
     "description": "[Красный]",
     "guid": "ac2889",
-    "name": "City"
+    "name": "Город"
   },
   "ac3d08": {
     "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЖетоны контроля расширяют ваши границы, позволяя добывать ресурсы с территории и развивать города.\n\n+1 жетон контроля",
@@ -1498,9 +1498,9 @@
     "name": "Мрамор"
   },
   "ae2535": {
-    "description": "[Культура]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 3 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем выберите жетон контроля соперника на расстоянии до 2 ячеек от дружественной территории. Если жетон контроля соперника без улучшения, замените его 1 своим неулучшенным жетоном контроля. Если жетон контроля соперника улучшен, переверните его неулучшенной стороной вверх.\n\n+1 жетон контроля",
     "guid": "ae2535",
-    "name": "Mass Media"
+    "name": "Средства массовой информации"
   },
   "aed144": {
     "description": "",
@@ -1508,9 +1508,9 @@
     "name": "Чудо света"
   },
   "af9149": {
-    "description": "Victory Card",
+    "description": "[Победная карта]\n\nУрбанист:\n - Контролируйте 5 развитых городов.\n\nЗащитник:\n - Контролируйте 2 природных чуда.",
     "guid": "af9149",
-    "name": "Populous | Preservationist"
+    "name": "Урбанист | Защитник"
   },
   "afb25a": {
     "description": "[Красный]",
@@ -1520,7 +1520,7 @@
   "afd885": {
     "description": "[Жёлтый]",
     "guid": "afd885",
-    "name": "City"
+    "name": "Город"
   },
   "affb83": {
     "description": "",
@@ -1533,9 +1533,9 @@
     "name": "Капитализм"
   },
   "b2af84": {
-    "description": "[Наука]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПоверните ваш диск технологий на число равное номеру этого слота.\n\nПоворачивая ваш диск технологий вы открываете возможность заменять карты из вашего ряда действий их улучшенными версиями с особыми свойствами.\n\n+1 к повороту диска технологий",
     "guid": "b2af84",
-    "name": "Astrology"
+    "name": "Астрология"
   },
   "b327cb": {
     "description": "[Зелёный]",
@@ -1545,7 +1545,7 @@
   "b35780": {
     "description": "[Синий]",
     "guid": "b35780",
-    "name": "City"
+    "name": "Город"
   },
   "b36d70": {
     "description": "",
@@ -1553,9 +1553,9 @@
     "name": "Жетон торговли"
   },
   "b3a17e": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 3 ячеек от дружественной территории.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и примыкающей к дружественному каравану.\n\n+1 к производству чудес света",
     "guid": "b3a17e",
-    "name": "Animal Husbandry"
+    "name": "Животноводство"
   },
   "b3f6da": {
     "description": "",
@@ -1565,10 +1565,10 @@
   "b53489": {
     "description": "[Синий]",
     "guid": "b53489",
-    "name": "City"
+    "name": "Город"
   },
   "b5995a": {
-    "description": "[Modern Wonder]\n\nAfter you resolve a focus card other than your economy card, you may resolve and reset your economy card.",
+    "description": "[Современное чудо]\n\nAfter you resolve a focus card other than your economy card, you may resolve and reset your economy card.",
     "guid": "b5995a",
     "name": "Estadio do Maracana"
   },
@@ -1608,9 +1608,9 @@
     "name": "GRAB A RANDOM CHARACTER"
   },
   "b8eda9": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
     "guid": "b8eda9",
-    "name": "Iron Working"
+    "name": "Обработка железа"
   },
   "b9cb76": {
     "description": "[Красный]",
@@ -1625,12 +1625,12 @@
   "ba1b96": {
     "description": "[Зелёный]",
     "guid": "ba1b96",
-    "name": "City"
+    "name": "Город"
   },
   "bbc9ed": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 3 атак в пределах 5 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 3. Вы можете пересекать воду, ячейки соперников, варваров и города-государства.\n\n+1 боевой бонус",
     "guid": "bbc9ed",
-    "name": "Flight"
+    "name": "Авиация"
   },
   "bbeaea": {
     "description": "",
@@ -1643,9 +1643,9 @@
     "name": "WONDERS"
   },
   "be3410": {
-    "description": "[Наука]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПоверните ваш диск технологий на число равное номеру этого слота.\n\nПоворачивая ваш диск технологий вы открываете возможность заменять карты из вашего ряда действий их улучшенными версиями с особыми свойствами.\n\n+1 к повороту диска технологий",
     "guid": "be3410",
-    "name": "Astrology"
+    "name": "Астрология"
   },
   "bf3a09": {
     "description": "[Красный]",
@@ -1655,7 +1655,7 @@
   "bfd0a4": {
     "description": "Город-государство",
     "guid": "bfd0a4",
-    "name": "Kabul / Buenos Aires"
+    "name": "Кабул / Буэнос-Айрес"
   },
   "c1da07": {
     "description": "",
@@ -1695,7 +1695,7 @@
   "c8234c": {
     "description": "[Жёлтый]",
     "guid": "c8234c",
-    "name": "City"
+    "name": "Город"
   },
   "c875c4": {
     "description": "[Красный]",
@@ -1763,9 +1763,9 @@
     "name": "A"
   },
   "cd558f": {
-    "description": "[Культура]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем вы можете переместить один ваш жетон контроля на примыкающую не водную пустую ячейку (не содержащую жетона или пластиковой фигурки).\n\n+1 жетон контроля",
     "guid": "cd558f",
-    "name": "Drama and Poetry"
+    "name": "Драма и поэзия"
   },
   "cd5ca8": {
     "description": "[Жёлтый]",
@@ -1775,10 +1775,15 @@
   "cd994c": {
     "description": "[Красный]",
     "guid": "cd994c",
-    "name": "City"
+    "name": "Город"
+  },
+  "ce0e0c": {
+    "description": "При использовании промышленной или культурной карты из вашего ряда действий сложность ячеек с лесом равна 1.",
+    "guid": "ce0e0c",
+    "name": "Кумаси"
   },
   "ce2434": {
-    "description": "[Modern Wonder]\n\nAt the start of your turn, you may choose 2 rival control tokens on the map belonging to the same player. That player replaces 1 of those tokens with 1 of your unused, unreinforced control tokens.",
+    "description": "[Современное чудо]\n\nAt the start of your turn, you may choose 2 rival control tokens on the map belonging to the same player. That player replaces 1 of those tokens with 1 of your unused, unreinforced control tokens.",
     "guid": "ce2434",
     "name": "Eiffel Tower"
   },
@@ -1798,9 +1803,9 @@
     "name": "Гончарное дело"
   },
   "d294c9": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 4 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nВаши караваны могут перемещаться на ячейки варваров. При перемещении каравана на ячейку с варварами, уничтожьте этих варваров без получения жетонов торговли.\n\n+1 к расстоянию перемещения всем",
     "guid": "d294c9",
-    "name": "Currency"
+    "name": "Деньги"
   },
   "d32b57": {
     "description": "",
@@ -1815,17 +1820,17 @@
   "d38d60": {
     "description": "[Зелёный]",
     "guid": "d38d60",
-    "name": "City"
+    "name": "Город"
   },
   "d3b823": {
     "description": "[Красный]",
     "guid": "d3b823",
-    "name": "Control Tokens"
+    "name": "Жетоны контроля"
   },
   "d4ce75": {
     "description": "[Синий]",
     "guid": "d4ce75",
-    "name": "Control Tokens"
+    "name": "Жетоны контроля"
   },
   "d584b3": {
     "description": "",
@@ -1840,7 +1845,7 @@
   "d648fb": {
     "description": "Город-государство",
     "guid": "d648fb",
-    "name": "Mohenjo Daro / Geneva"
+    "name": "Мохенджо-Даро / Geneva"
   },
   "d6938b": {
     "description": "[Жёлтый]",
@@ -1848,7 +1853,7 @@
     "name": "Жетон контроля"
   },
   "d6bc38": {
-    "description": "[Modern Wonder]\n\nWhen attacking a rival space, increase your combat value by 4 if you have more reinforced control tokens on the map than the defending player.",
+    "description": "[Современное чудо]\n\nWhen attacking a rival space, increase your combat value by 4 if you have more reinforced control tokens on the map than the defending player.",
     "guid": "d6bc38",
     "name": "Kremlin"
   },
@@ -1858,14 +1863,14 @@
     "name": "Караван"
   },
   "d74103": {
-    "description": "[Medieval Wonder]\n\nYou can place trade tokens on this card instead of on your focus cards, up to a limit of 4.\n\nAt the start of your turn, you may move trade tokens from this card to cards in your focus row.",
+    "description": "[Средневековое чудо]\n\nYou can place trade tokens on this card instead of on your focus cards, up to a limit of 4.\n\nAt the start of your turn, you may move trade tokens from this card to cards in your focus row.",
     "guid": "d74103",
     "name": "Great Zimbabwe"
   },
   "d85cc8": {
     "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
     "guid": "d85cc8",
-    "name": "ADVANCED MAP BUILDING"
+    "name": "[Формирование карты]"
   },
   "d8e1a4": {
     "description": "[Жёлтый]",
@@ -1875,12 +1880,12 @@
   "d9204d": {
     "description": "[Зелёный]",
     "guid": "d9204d",
-    "name": "City"
+    "name": "Город"
   },
   "d995d0": {
     "description": "[Синий]",
     "guid": "d995d0",
-    "name": "City"
+    "name": "Город"
   },
   "dab6c2": {
     "description": "Природное чудо",
@@ -1888,22 +1893,22 @@
     "name": "Mt. Kilimanjaro"
   },
   "de6630": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 3 spaces of a friendly space. Your combat value equals this slot's number plus 1, or plus 3 if attacking a barbarian.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
     "guid": "de6630",
-    "name": "Iron Working"
+    "name": "Обработка железа"
   },
   "deb335": {
-    "description": "[Вооружённые силы]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to attacks within 5 spaces of a friendly space. Your combat value equals this slot's number plus 3. You can count through water, rival spaces, barbarians, and city-states.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 3 атак в пределах 5 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 3. Вы можете пересекать воду, ячейки соперников, варваров и города-государства.\n\n+1 боевой бонус",
     "guid": "deb335",
-    "name": "Flight"
+    "name": "Авиация"
   },
   "e07ab9": {
-    "description": "Victory Card",
+    "description": "[Победная карта]\n\nЦивилизованный:\n - Разместите на карте 8 ваших городов.\n\nХапуга:\n - Контролируйте 2 чуда света экономического типа.",
     "guid": "e07ab9",
-    "name": "Civilized | Money Grubber"
+    "name": "Цивилизованный | Хапуга"
   },
   "e1607d": {
-    "description": "[Modern Wonder]\n\nWhen defending, increase you combat value by 5.",
+    "description": "[Современное чудо]\n\nWhen defending, increase you combat value by 5.",
     "guid": "e1607d",
     "name": "Ruhr Valley"
   },
@@ -1915,12 +1920,12 @@
   "e1e1e1": {
     "description": "[Синий]",
     "guid": "e1e1e1",
-    "name": "City"
+    "name": "Город"
   },
   "e25aa2": {
-    "description": "When attacking a city or a city-state other than Kabul, increase your combat value by 3.",
+    "description": "Атакуя город или город-государство, отличный от Кабула, добавьте себе 3 боевых бонуса.",
     "guid": "e25aa2",
-    "name": "Kabul"
+    "name": "Кабул"
   },
   "e2e073": {
     "description": "Во время защиты добавьте себе 2 боевых бонуса, если нападающий не жёлтый игрок.",
@@ -1973,14 +1978,14 @@
     "name": "Жетон контроля"
   },
   "e73a63": {
-    "description": "Victory Card",
+    "description": "[Победная карта]\n\nТехнофил:\n - Достигните отметки “24” на вашем диске технологий.\n\nАкадемик:\n - Контролируйте 2 чуда света научного типа.",
     "guid": "e73a63",
-    "name": "Technophile | Scholarly"
+    "name": "Технофил | Академик"
   },
   "e8ad30": {
-    "description": "[Наука]\n\nAdvance your tech dial a number of spaces equals to this slot's number.\n\nAdvancing your tech dial allows you to replace the cards in your focus row with better versions that have special effects.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПоверните ваш диск технологий на число равное номеру этого слота.\n\nПоворачивая ваш диск технологий вы открываете возможность заменять карты из вашего ряда действий их улучшенными версиями с особыми свойствами.\n\n+1 к повороту диска технологий",
     "guid": "e8ad30",
-    "name": "Astrology"
+    "name": "Астрология"
   },
   "ea86e6": {
     "description": "[Зелёный]",
@@ -1993,7 +1998,7 @@
     "name": "Жетон контроля"
   },
   "eb4369": {
-    "description": "[Modern Wonder]\n\nRival control tokens contribute toward your cities' maturity.",
+    "description": "[Современное чудо]\n\nRival control tokens contribute toward your cities' maturity.",
     "guid": "eb4369",
     "name": "Sydney Opera House"
   },
@@ -2003,19 +2008,19 @@
     "name": "Ртуть"
   },
   "ebfba6": {
-    "description": "[Наука]\n\nGain 1 resource of your choice from the supply. You cannot gain a resource of a type that you already have.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nПолучите 1 ресурс с рынка по вашему выбору. Вы не можете получить ресурс того же типа, который у вас уже есть.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "ebfba6",
-    "name": "Replaceable Parts"
+    "name": "Стандартизация"
   },
   "ec9343": {
-    "description": "[Medieval Wonder]\n\nAt the start of your turn, you may destroy 1 rival control token that is adjacent to a friendly space.",
+    "description": "[Средневековое чудо]\n\nAt the start of your turn, you may destroy 1 rival control token that is adjacent to a friendly space.",
     "guid": "ec9343",
     "name": "Forbidden City"
   },
   "ed9840": {
     "description": "[Красный]",
     "guid": "ed9840",
-    "name": "City"
+    "name": "Город"
   },
   "edeb68": {
     "description": "Ресурс",
@@ -2030,7 +2035,7 @@
   "ee9f5e": {
     "description": "[Жёлтый]",
     "guid": "ee9f5e",
-    "name": "City"
+    "name": "Город"
   },
   "eeaf8f": {
     "description": "Томирис\n\n[Степной народ]\n\nWhen attacking or defending grassland or hill space, increase your combat value by 3.\n\nТехнологии:\n1. Ранняя империя.\n2. Каменная кладка.\n3. Астрология.\n4. Международная торговля.\n5. Гончарное дело.",
@@ -2040,7 +2045,7 @@
   "efedde": {
     "description": "[Красный]",
     "guid": "efedde",
-    "name": "City"
+    "name": "Город"
   },
   "f05221": {
     "description": "Ресурс",
@@ -2053,19 +2058,19 @@
     "name": "Pyramids"
   },
   "f07c37": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 3 ячеек от дружественной территории.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и примыкающей к дружественному каравану.\n\n+1 к производству чудес света",
     "guid": "f07c37",
-    "name": "Animal Husbandry"
+    "name": "Животноводство"
   },
   "f0bee6": {
-    "description": "When you are resloving your industry or culture focus card, the terrain difficulty of forests is 1.",
-    "guid": "5e5d82",
-    "name": "Kumasi"
+    "description": "При постройке чуда света уменьшите его стоимость на 2 если у вас ещё нет чуда этого типа.",
+    "guid": "f0bee6",
+    "name": "Буэнос-Айрес"
   },
   "f10778": {
-    "description": "[Экономика]\n\nMove each of your caravans up to 4 spaces. They can move into spaces matching this slot's terrain or lower.\n\nYour caravans can move into barbarians' spaces. If you move a caravan into a barbarian's space, defeat that barbarian without gaining a trade token.\n\n+1 к расстоянию перемещения всем",
+    "description": "[Экономика]\n\nПереместите ваши караваны на расстояние до 4 ячеек каждый. Они могут пересекать лишь ячейки соответствующие типу местности текущего слота.\n\nВаши караваны могут перемещаться на ячейки варваров. При перемещении каравана на ячейку с варварами, уничтожьте этих варваров без получения жетонов торговли.\n\n+1 к расстоянию перемещения всем",
     "guid": "f10778",
-    "name": "Currency"
+    "name": "Деньги"
   },
   "f10c10": {
     "description": "[Синий]",
@@ -2075,7 +2080,7 @@
   "f13281": {
     "description": "[Синий]",
     "guid": "f13281",
-    "name": "City"
+    "name": "Город"
   },
   "f19f71": {
     "description": "Ресурс",
@@ -2083,9 +2088,9 @@
     "name": "Ртуть"
   },
   "f46c2d": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 3 ячеек от дружественной территории.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и примыкающей к дружественному каравану.\n\n+1 к производству чудес света",
     "guid": "f46c2d",
-    "name": "Animal Husbandry"
+    "name": "Животноводство"
   },
   "f484a0": {
     "description": "Варвар",
@@ -2098,9 +2103,9 @@
     "name": "Нефть"
   },
   "f5542a": {
-    "description": "[Культура]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, you may move 1 of your control tokens to an adjacent, non-water space that is empty (dous not contain a token or plasctic figure).\n\n+1 жетон контроля",
+    "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем вы можете переместить один ваш жетон контроля на примыкающую не водную пустую ячейку (не содержащую жетона или пластиковой фигурки).\n\n+1 жетон контроля",
     "guid": "f5542a",
-    "name": "Drama and Poetry"
+    "name": "Драма и поэзия"
   },
   "f68f4c": {
     "description": "[Древнее чудо]\n\nAt the start of your turn, you may place 1 control token on a space of terrain difficulty 4 or less that is adjacent to a friendly city.",
@@ -2123,7 +2128,7 @@
     "name": "Жетон контроля"
   },
   "f8291f": {
-    "description": "[Medieval Wonder]\n\nWhen you resolve the card in the first or second slot of your focus row, you may treat it as being in the third slot of your row.",
+    "description": "[Средневековое чудо]\n\nWhen you resolve the card in the first or second slot of your focus row, you may treat it as being in the third slot of your row.",
     "guid": "f8291f",
     "name": "Machu Picchu"
   },
@@ -2138,7 +2143,7 @@
     "name": "Жетон контроля"
   },
   "f98449": {
-    "description": "At the start of your turn, you may move 1 barbarian to an adjacent, empty space.",
+    "description": "В начале вашего хода вы можете переместить 1 варвара на примыкающую пустую ячейку.",
     "guid": "f98449",
     "name": "Сеул"
   },
@@ -2173,9 +2178,9 @@
     "name": "Geneva"
   },
   "fad788": {
-    "description": "[Промышленность]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space or this slot's terrain or lower within 5 spaces of a friendly space. You can count through water.\n\nThen, if you build a city, place up to 2 control tokens adjacent to that city. Those tokens can be placed on spaces matching this slot's terrain or lower.\n\n+1 к производству чудес света",
+    "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 5 ячеек от дружественной территории. Вы можете пересекать воду.\n\nЗатем, если вы построили город, поместите до 2 жетонов контроля на примыкающие к городу ячейки. Жетоны должны быть помещены на ячейки соответствующие типу местности текущего слота.\n\n+1 к производству чудес света",
     "guid": "fad788",
-    "name": "Urbanization"
+    "name": "Урбанизация"
   },
   "faf174": {
     "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЗатем поместите 1 жетон контроля на ячейку соответствующую типу местности текущего слота и примыкающую к дружественной территории.\n\n+1 жетон контроля",
@@ -2183,7 +2188,7 @@
     "name": "Госслужба"
   },
   "fba65e": {
-    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номеру этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
+    "description": "[Вооружённые силы]\n\nВыполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 2. Вы можете пересекать воду.\n\nЗатем улучшите ваши жетоны контроля в количестве, не превышающем номера этого слота минус 1 за каждую выполненную вами атаку.\n\n+1 боевой бонус",
     "guid": "fba65e",
     "name": "Массовое производство"
   },
@@ -2198,12 +2203,12 @@
     "name": "Чудо света"
   },
   "fcf9c4": {
-    "description": "[Modern Wonder]\n\nWhen you replace a focus card other than a science focus card, you do not have to replace it with a card of the same type.",
+    "description": "[Современное чудо]\n\nWhen you replace a focus card other than a science focus card, you do not have to replace it with a card of the same type.",
     "guid": "fcf9c4",
     "name": "Oxford University"
   },
   "fdbf4e": {
-    "description": "[Medieval Wonder]\n\nYou can have 4 diplomacy cards from each other player.\n\nWhen you build this wonder, you may take a total of 3 diplomacy cards of your choice from other players.",
+    "description": "[Средневековое чудо]\n\nYou can have 4 diplomacy cards from each other player.\n\nWhen you build this wonder, you may take a total of 3 diplomacy cards of your choice from other players.",
     "guid": "fdbf4e",
     "name": "Potala Palace"
   },
@@ -2218,9 +2223,9 @@
     "name": "Жетон контроля"
   },
   "ff27f5": {
-    "description": "[Наука]\n\nIf you resolved this card in the fifth slot, choose 1 space. In that space and all adjacent spaces, destroy all unreinforced control tokens and flip all reinforced control tokens to their unreinforced side.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
+    "description": "[Наука]\n\nЕсли вы применяете эту карту в пятом слоте, выберите 1 ячейку. В этой и всех примыкающих к ней ячейках уничтожьте все неулучшенные жетоны контроля и переверните все улучшенные жетоны контроля на их неулучшенную сторону.\n\nЗатем поверните ваш диск технологий на число равное номеру этого слота.\n\n+1 к повороту диска технологий",
     "guid": "ff27f5",
-    "name": "Nuclear Power"
+    "name": "Атомная энергия"
   },
   "ff900d": {
     "description": "Ресурс",
