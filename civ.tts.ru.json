@@ -970,7 +970,7 @@
     "name": "Буэнос-Айрес"
   },
   "75525f": {
-    "description": "[Средневековое чудо]\n\nПри постройке этого чуда замените до 2 карт в вашем ряду действий картами следующего уровня этого же типа.",
+    "description": "[Средневековое чудо]\n\nПри постройке этого чуда замените до 2 карт в вашем ряду действий картами следующего уровня того же самого типа.",
     "guid": "75525f",
     "name": "Фарфоровая пагода"
   },
@@ -1449,9 +1449,6 @@
     "guid": "a5cf15",
     "name": "Алмаз"
   },
-  
-  // placeholder
-  
   "a93dc1": {
     "description": "[Синий]",
     "guid": "a93dc1",
@@ -1478,9 +1475,9 @@
     "name": "Деньги"
   },
   "aa3bcc": {
-    "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
+    "description": "В начале вашего хода вы можете вернуть 1 дипломатическую карту, которую вы получили от другого игрока. Если вы это сделаете, выберите и возьмите другую дипломатическую карту у того же игрока.",
     "guid": "aa3bcc",
-    "name": "Geneva"
+    "name": "Женева"
   },
   "ac2889": {
     "description": "[Красный]",
@@ -1563,9 +1560,9 @@
     "name": "Город"
   },
   "b5995a": {
-    "description": "[Современное чудо]\n\nAfter you resolve a focus card other than your economy card, you may resolve and reset your economy card.",
+    "description": "[Современное чудо]\n\nПосле того как вы примените любую кроме экономической карты из вашего ряда действий, вы можете применить и сбросить вашу экономическую карту.",
     "guid": "b5995a",
-    "name": "Estadio do Maracana"
+    "name": "Маракана"
   },
   "b5c3a5": {
     "description": "[Жёлтый]",
@@ -1573,9 +1570,9 @@
     "name": "Жетон контроля"
   },
   "b6a219": {
-    "description": "[Древнее чудо]\n\nWhen attacking, increase your combat value by 2.",
+    "description": "[Древнее чудо]\n\nВо время атаки добавьте себе 2 боевых бонуса.",
     "guid": "b6a219",
-    "name": "Terracotta Army"
+    "name": "Терракотовая армия"
   },
   "b784dc": {
     "description": "[Синий]",
@@ -1583,9 +1580,9 @@
     "name": "Караван"
   },
   "b7bcb5": {
-    "description": "[Древнее чудо]\n\nAt the start of your turn, you may swap 2 adjacent cards in your focus row.",
+    "description": "[Древнее чудо]\n\nВ начале вашего хода вы можете поменять местами 2 рядом лежащие карты в вашем ряду действий.",
     "guid": "b7bcb5",
-    "name": "Oracle"
+    "name": "Оракул"
   },
   "b852d7": {
     "description": "[Красный]",
@@ -1600,7 +1597,7 @@
   "b8ce4c": {
     "description": "",
     "guid": "b8ce4c",
-    "name": "GRAB A RANDOM CHARACTER"
+    "name": "[Выберите случайную нацию]"
   },
   "b8eda9": {
     "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
@@ -1635,7 +1632,7 @@
   "bc832b": {
     "description": "",
     "guid": "bc832b",
-    "name": "WONDERS"
+    "name": "[Чудеса]"
   },
   "be3410": {
     "description": "[Наука]\n\nПоверните ваш диск технологий на число равное номеру этого слота.\n\nПоворачивая ваш диск технологий вы открываете возможность заменять карты из вашего ряда действий их улучшенными версиями с особыми свойствами.\n\n+1 к повороту диска технологий",
@@ -1673,7 +1670,7 @@
     "name": "Жетон контроля"
   },
   "c39e80": {
-    "description": "Гильгамеш\n\n[Эпические задания]\n\nWhen you defeat a barbarian, gain 1 resource of your choice from the supply (in addition to a trade token).\n\nТехнологии:\n1. Международная торговля.\n2. Ранняя империя.\n3. Астрология.\n4. Каменная кладка.\n5. Гончарное дело.",
+    "description": "Гильгамеш\n\n[Эпические задания]\n\nКогда вы побеждаете варваров получите 1 ресурс с рынка на свой выбор (в дополнение к жетону торговли).\n\nТехнологии:\n1. Международная торговля.\n2. Ранняя империя.\n3. Астрология.\n4. Каменная кладка.\n5. Гончарное дело.",
     "guid": "c39e80",
     "name": "Шумер"
   },
@@ -1748,9 +1745,9 @@
     "name": "Алмаз"
   },
   "cc3f9c": {
-    "description": "[Древнее чудо]\n\nWhen resolving your economy focus card, your caravans can move a total of 6 additional spaces, divided as you choose.",
+    "description": "[Древнее чудо]\n\nКогда вы применяете экономическую карту из вашего ряда действий, ваши караваны могут переместиться на 6 дополнительных ячеек, распределённых по вашему усмотрению.",
     "guid": "cc3f9c",
-    "name": "Colossus"
+    "name": "Колосс Родосский"
   },
   "cc71ec": {
     "description": "[Зелёный]",
@@ -1783,9 +1780,9 @@
     "name": "Кумаси"
   },
   "ce2434": {
-    "description": "[Современное чудо]\n\nAt the start of your turn, you may choose 2 rival control tokens on the map belonging to the same player. That player replaces 1 of those tokens with 1 of your unused, unreinforced control tokens.",
+    "description": "[Современное чудо]\n\nВ начале вашего хода вы можете выбрать 2 жетона контроля, принадлежащие одному сопернику. Этот игрок должен заменить 1 из этих жетонов на 1 ваш неиспользованный неулучшенный жетон контроля.",
     "guid": "ce2434",
-    "name": "Eiffel Tower"
+    "name": "Эйфелева башня"
   },
   "ceb250": {
     "description": "[Синий]",
@@ -1810,7 +1807,7 @@
   "d34454": {
     "description": "",
     "guid": "d34454",
-    "name": "First Player"
+    "name": "Первый игрок"
   },
   "d38d60": {
     "description": "[Зелёный]",
@@ -1840,7 +1837,7 @@
   "d648fb": {
     "description": "Город-государство",
     "guid": "d648fb",
-    "name": "Мохенджо-Даро / Geneva"
+    "name": "Мохенджо-Даро / Женева"
   },
   "d6938b": {
     "description": "[Жёлтый]",
@@ -1848,9 +1845,9 @@
     "name": "Жетон контроля"
   },
   "d6bc38": {
-    "description": "[Современное чудо]\n\nWhen attacking a rival space, increase your combat value by 4 if you have more reinforced control tokens on the map than the defending player.",
+    "description": "[Современное чудо]\n\nКогда вы атакуете ячейку соперника, добавьте себе 4 боевых бонуса если у вас больше улучшенных жетонов контроля на карте чем у защищающегося игрока",
     "guid": "d6bc38",
-    "name": "Kremlin"
+    "name": "Кремль"
   },
   "d6c289": {
     "description": "[Жёлтый]",
@@ -1858,9 +1855,9 @@
     "name": "Караван"
   },
   "d74103": {
-    "description": "[Средневековое чудо]\n\nYou can place trade tokens on this card instead of on your focus cards, up to a limit of 4.\n\nAt the start of your turn, you may move trade tokens from this card to cards in your focus row.",
+    "description": "[Средневековое чудо]\n\nВы можете поместить до 4 торговых жетонов на эту карту вместо карт из вашего ряда действий.\n\nВ начале вашего хода вы можете переместить торговые жетоны с этой карты на карты из вашего ряда действий.",
     "guid": "d74103",
-    "name": "Great Zimbabwe"
+    "name": "Великий Зимбабве"
   },
   "d7fb5d": {
     "description": "[Культура]\n\nПоместите 2 жетона контроля на ячейки соответствующие типу местности текущего слота и смежные с дружественными городами.\n\nЖетоны контроля расширяют ваши границы, позволяя добывать ресурсы с территории и развивать города.\n\n+1 жетон контроля",
@@ -1868,7 +1865,7 @@
     "name": "Ранняя империя"
   },
   "d85cc8": {
-    "description": "Use the board tiles in this bag and the water hexes to create an advanced map. \n\nLocations for these barbarians are on the B side of the tiles.\n\nThe B side can be found on State Two. DO NOT USE THE BACK OF THE TILES.\n",
+    "description": "Используйте участки карты из этого мешочка и ячейки воды для создания пользовательской карты.\n\nПозиция варваров отмечена на стороне B этих участков карт.\n\nСторона B находится во втором состоянии участка карты. НЕ ИСПОЛЬЗУЙТЕ ОБРАТНУЮ СТОРОНУ УЧАСТКОВ КАРТ.\n",
     "guid": "d85cc8",
     "name": "[Формирование карты]"
   },
@@ -1890,7 +1887,7 @@
   "dab6c2": {
     "description": "Природное чудо",
     "guid": "dab6c2",
-    "name": "Mt. Kilimanjaro"
+    "name": "Килиманджаро"
   },
   "de6630": {
     "description": "[Вооружённые силы]\n\nУлучшите ваши жетоны контроля в количестве, не превышающем номера этого слота.\n\nИли выполните до 2 атак в пределах 3 ячеек от дружественной территории. Ваш боевой бонус равен номеру этого слота плюс 1, или плюс 3 при атаке варвара.\n\n+1 боевой бонус",
@@ -1908,9 +1905,9 @@
     "name": "Цивилизованный | Хапуга"
   },
   "e1607d": {
-    "description": "[Современное чудо]\n\nWhen defending, increase you combat value by 5.",
+    "description": "[Современное чудо]\n\nВо время защиты добавьте себе 5 боевых бонусов.",
     "guid": "e1607d",
-    "name": "Ruhr Valley"
+    "name": "Рурштадт"
   },
   "e1b3a1": {
     "description": "Ресурс",
@@ -1970,7 +1967,7 @@
   "e66fcd": {
     "description": "Ресурсы",
     "guid": "e66fcd",
-    "name": "Oils"
+    "name": "Нефть"
   },
   "e6ae31": {
     "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 2 ячеек от дружественной территории.\n\nЧудеса света дают мощные, уникальные эффекты их владельцам. Города расширяют доступ игроков к новым областям карты и увеличивают количество чудес света, которые игрок может построить.\n\n+1 к производству чудес света",
@@ -2008,9 +2005,9 @@
     "name": "Жетон контроля"
   },
   "eb4369": {
-    "description": "[Современное чудо]\n\nRival control tokens contribute toward your cities' maturity.",
+    "description": "[Современное чудо]\n\nЖетоны контроля соперников влияют на развитость ваших городов.",
     "guid": "eb4369",
-    "name": "Sydney Opera House"
+    "name": "Сиднейский оперный театр"
   },
   "eb4872": {
     "description": "Ресурс",
@@ -2023,9 +2020,9 @@
     "name": "Стандартизация"
   },
   "ec9343": {
-    "description": "[Средневековое чудо]\n\nAt the start of your turn, you may destroy 1 rival control token that is adjacent to a friendly space.",
+    "description": "[Средневековое чудо]\n\nВ начале вашего хода вы можете уничтожить 1 жетон контроля соперника, примыкающий к дружественной территории.",
     "guid": "ec9343",
-    "name": "Forbidden City"
+    "name": "Запретный город"
   },
   "ed9840": {
     "description": "[Красный]",
@@ -2053,7 +2050,7 @@
     "name": "Город"
   },
   "eeaf8f": {
-    "description": "Томирис\n\n[Степной народ]\n\nWhen attacking or defending grassland or hill space, increase your combat value by 3.\n\nТехнологии:\n1. Ранняя империя.\n2. Каменная кладка.\n3. Астрология.\n4. Международная торговля.\n5. Гончарное дело.",
+    "description": "Томирис\n\n[Степной народ]\n\nВо время атаки или защиты ячейки с равниной или холмами добавьте себе 3 боевых бонуса.\n\nТехнологии:\n1. Ранняя империя.\n2. Каменная кладка.\n3. Астрология.\n4. Международная торговля.\n5. Гончарное дело.",
     "guid": "eeaf8f",
     "name": "Скифия"
   },
@@ -2068,9 +2065,9 @@
     "name": "Нефть"
   },
   "f05892": {
-    "description": "[Древнее чудо]\n\nWhen you build this wonder, choose up to 3 level-I cards in your focus row. Replace each with a level-II card of the same type.",
+    "description": "[Древнее чудо]\n\nПри постройке этого чуда выберите до 3 карт первого уровня в вашем ряду действий. Замените каждую из них картой второго уровня того же самого типа.",
     "guid": "f05892",
-    "name": "Pyramids"
+    "name": "Пирамиды"
   },
   "f07c37": {
     "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 3 ячеек от дружественной территории.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и примыкающей к дружественному каравану.\n\n+1 к производству чудес света",
@@ -2123,9 +2120,9 @@
     "name": "Драма и поэзия"
   },
   "f68f4c": {
-    "description": "[Древнее чудо]\n\nAt the start of your turn, you may place 1 control token on a space of terrain difficulty 4 or less that is adjacent to a friendly city.",
+    "description": "[Древнее чудо]\n\nВ начале вашего хода вы можете поместить 1 жетон контроля на ячейку со сложностью 4 или меньше, которая примыкает к дружественной территории.",
     "guid": "f68f4c",
-    "name": "Hanging Gardens"
+    "name": "Висячие сады"
   },
   "f72d1c": {
     "description": "[Жёлтый]",
@@ -2143,9 +2140,9 @@
     "name": "Жетон контроля"
   },
   "f8291f": {
-    "description": "[Средневековое чудо]\n\nWhen you resolve the card in the first or second slot of your focus row, you may treat it as being in the third slot of your row.",
+    "description": "[Средневековое чудо]\n\nКогда вы применяете карту из первого или второго слота вашего ряда действий, вы можете использовать её так, как если бы она лежала в третьем слоте вашего ряда действий.",
     "guid": "f8291f",
-    "name": "Machu Picchu"
+    "name": "Мачу-Пикчу"
   },
   "f87a57": {
     "description": "[Жёлтый]",
@@ -2175,7 +2172,7 @@
   "fa92a8": {
     "description": "Природное чудо",
     "guid": "fa92a8",
-    "name": "Mt. Everest"
+    "name": "Эверест"
   },
   "faa7d3": {
     "description": "[Синий]",
@@ -2188,9 +2185,9 @@
     "name": "Чудо света"
   },
   "fac552": {
-    "description": "At the start of your turn, you may return 1 diplomacy card you have taken from another player. If you do, choose and take a different diplomacy card from that player.",
+    "description": "В начале вашего хода вы можете вернуть 1 дипломатическую карту, которую вы получили от другого игрока. Если вы это сделаете, выберите и возьмите другую дипломатическую карту у того же игрока.",
     "guid": "fac552",
-    "name": "Geneva"
+    "name": "Женева"
   },
   "fad788": {
     "description": "[Промышленность]\n\nПостройте 1 чудо света. Количество единиц вашего производства равно номеру этого слота.\n\nИли постройте 1 город на ячейке соответствующей типу местности текущего слота и на расстоянии до 5 ячеек от дружественной территории. Вы можете пересекать воду.\n\nЗатем, если вы построили город, поместите до 2 жетонов контроля на примыкающие к городу ячейки. Жетоны должны быть помещены на ячейки соответствующие типу местности текущего слота.\n\n+1 к производству чудес света",
@@ -2218,14 +2215,14 @@
     "name": "Чудо света"
   },
   "fcf9c4": {
-    "description": "[Современное чудо]\n\nWhen you replace a focus card other than a science focus card, you do not have to replace it with a card of the same type.",
+    "description": "[Современное чудо]\n\nКогда вы заменяете не научную карту из вашего ряда действий, вы не обязаны заменять её картой того же типа.",
     "guid": "fcf9c4",
-    "name": "Oxford University"
+    "name": "Оксфордский университет"
   },
   "fdbf4e": {
-    "description": "[Средневековое чудо]\n\nYou can have 4 diplomacy cards from each other player.\n\nWhen you build this wonder, you may take a total of 3 diplomacy cards of your choice from other players.",
+    "description": "[Средневековое чудо]\n\nВы можете иметь по 4 дипломатические карты от каждого игрока.\n\nПри постройке этого чуда вы можете взять до 3 дипломатических карт других игроков по своему выбору.",
     "guid": "fdbf4e",
-    "name": "Potala Palace"
+    "name": "Потала"
   },
   "fe4fc3": {
     "description": "[Синий]",
