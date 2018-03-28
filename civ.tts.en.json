@@ -39,9 +39,9 @@
     "guid": "05451c",
     "name": "CITY STATES"
   },
-  "057419": {
+  "0574191": {
     "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
-    "guid": "057419",
+    "guid": "0574191",
     "name": "Mathematics"
   },
   "0584ea": {
@@ -64,9 +64,9 @@
     "guid": "07a146",
     "name": "Carthage"
   },
-  "08991c": {
+  "08991c1": {
     "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
-    "guid": "08991c",
+    "guid": "08991c1",
     "name": "Masonry"
   },
   "08ecba": {
@@ -149,9 +149,9 @@
     "guid": "127708",
     "name": "France"
   },
-  "13573d": {
+  "13573d1": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
-    "guid": "13573d",
+    "guid": "13573d1",
     "name": "Civil Service"
   },
   "13acc2": {
@@ -184,9 +184,9 @@
     "guid": "159a91",
     "name": "Control Token"
   },
-  "16a874": {
+  "16a8741": {
     "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
-    "guid": "16a874",
+    "guid": "16a8741",
     "name": "Masonry"
   },
   "1725c0": {
@@ -289,9 +289,9 @@
     "guid": "252760",
     "name": "Replaceable Parts"
   },
-  "258bb7": {
+  "258bb71": {
     "description": "[Industry]\n\nBuild 1 world wonder. Your production equals this slot's number.\n\nOr, build 1 city on a legal space of this slot's terrain or lower within 3 spaces of a friendly space.\n\nOr, build 1 city on an empty space of this slot's terrain or lower that is adjacent to a friendly caravan.\n\n+1 Production for Wonders",
-    "guid": "258bb7",
+    "guid": "258bb71",
     "name": "Animal Husbandry"
   },
   "25c544": {
@@ -504,9 +504,9 @@
     "guid": "405413",
     "name": "Water Token"
   },
-  "4160e6": {
+  "4160e61": {
     "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
-    "guid": "4160e6",
+    "guid": "4160e61",
     "name": "Masonry"
   },
   "42a46a": {
@@ -1024,7 +1024,7 @@
     "guid": "787685",
     "name": "Control Token"
   },
-  "78af68": {
+  "78af681": {
     "description": "[Culture]\n\nPlace 3 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, choose a rival control token within 2 spaces of a friendly space. If the rival token is unreinforced, replace it with 1 of your control tokens on then unreinforced side. If the rival token is reinforced, flip it to its unreinforced side.\n\n+1 Control Token",
     "guid": "78af68",
     "name": "Mass Media"
@@ -1579,9 +1579,9 @@
     "guid": "b784dc",
     "name": "Caravan"
   },
-  "b7bcb5": {
+  "b7bcb51": {
     "description": "[Ancient Wonder]\n\nAt the start of your turn, you may swap 2 adjacent cards in your focus row.",
-    "guid": "b7bcb5",
+    "guid": "b7bcb51",
     "name": "Oracle"
   },
   "b852d7": {
@@ -1609,9 +1609,9 @@
     "guid": "b9cb76",
     "name": "Control Token"
   },
-  "b9d79f": {
+  "b9d79f1": {
     "description": "[Science]\n\nPlace 1 trade token from the supply on 1 of your focus cards.\n\nThen, advance your tech dial a number of spaces equal to this slot's number.\n\n+1 Tech Dial Advancement",
-    "guid": "b9d79f",
+    "guid": "b9d79f1",
     "name": "Mathematics"
   },
   "ba1b96": {
@@ -1714,9 +1714,9 @@
     "guid": "c9b6f6",
     "name": "Defensive Pact"
   },
-  "ca589a": {
+  "ca589a1": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
-    "guid": "ca589a",
+    "guid": "ca589a1",
     "name": "Civil Service"
   },
   "ca9d7a": {
@@ -1954,9 +1954,9 @@
     "guid": "e52523",
     "name": "World Wonder"
   },
-  "e58dac": {
+  "e58dac1": {
     "description": "[Military]\n\nReinforce a number of your control tokens up to this slot's number.\n\nOr, perform up to 2 attacks within 2 spaces of a friendly space. You combat value equals this slot's number.\n\nA reinforced control token provides a defense bonus to its space and adjacent spaces. Attacking is an effective way to defeat barbarians, conquer city-states, and take control of rivals' world wonders.\n\n+1 to Combat Value",
-    "guid": "e58dac",
+    "guid": "e58dac1",
     "name": "Masonry"
   },
   "e5acb0": {
@@ -2074,9 +2074,9 @@
     "guid": "f07c37",
     "name": "Animal Husbandry"
   },
-  "f0bee6": {
+  "f0bee61": {
     "description": "When you are building a wonder, reduce its cost by 2 if you do not already have a wonder of its type.",
-    "guid": "f0bee6",
+    "guid": "f0bee61",
     "name": "Buenos Aires"
   },
   "f10778": {
@@ -2194,9 +2194,9 @@
     "guid": "fad788",
     "name": "Urbanization"
   },
-  "faf174": {
+  "faf1741": {
     "description": "[Culture]\n\nPlace 2 control tokens on spaces matching this slot's terrain or lower that are adjacent to friendly cities.\n\nThen, place 1 control token on a space matching this slot's terrain or lower that is adjacent to a friendly space.\n\n+1 Control Token",
-    "guid": "faf174",
+    "guid": "faf1741",
     "name": "Civil Service"
   },
   "fba65e": {
